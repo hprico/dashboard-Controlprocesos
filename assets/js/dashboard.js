@@ -48,6 +48,52 @@ Papa.parse("data/Controlprocesos_neps.csv", {
             type: 'bar'
         }], { title: "Top 10 Procesos más largos", xaxis:{tickangle:-45} });
 
+        //console.log("➡️ Entrando a gráfico de Base de Datos");
+        // Gráfico: Top 7 Bases de Datos + OTRAS
+        // 1. Contar procesos por BASE_DATOS
+        const basesCount = {};
+        
+        data.forEach(r => {
+            const bd = (r.BASE_DATOS && r.BASE_DATOS.trim())
+                ? r.BASE_DATOS
+                : "NO DEFINIDA";
+        
+            basesCount[bd] = (basesCount[bd] || 0) + 1;
+        });
+        
+        // 2. Convertir a array y ordenar de mayor a menor
+        const basesOrdenadas = Object.entries(basesCount)
+            .sort((a, b) => b[1] - a[1]);
+        
+        // 3. Tomar Top 7
+        const top7 = basesOrdenadas.slice(0, 7);
+        
+        // 4. Sumar el resto como OTRAS
+        const otras = basesOrdenadas
+            .slice(7)
+            .reduce((sum, item) => sum + item[1], 0);
+        
+        // 5. Construir labels y valores finales
+        const labels = top7.map(item => item[0]);
+        const values = top7.map(item => item[1]);
+        
+        if (otras > 0) {
+            labels.push("OTRAS");
+            values.push(otras);
+        }
+        
+        // 6. Crear gráfico de torta (dona)
+        Plotly.newPlot("chartBaseDatos", [{
+            labels: labels,
+            values: values,
+            type: "pie",
+            hole: 0.35
+        }], {
+            title: "Top 7 Bases de Datos + Otras",
+            height: 450
+        });
+        //console.log("✅ Gráfico de Base de Datos creado");
+
         // Tabla
         $('#tablaProcesos').DataTable({
             data: data,
