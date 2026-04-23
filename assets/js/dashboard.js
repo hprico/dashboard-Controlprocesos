@@ -5,17 +5,58 @@ Papa.parse("data/Controlprocesos_neps.csv", {
 
         const data = results.data.filter(r => r.PROCESO);
 
-        // KPIs
+        // KPIs 
+        // Total procesos
         document.getElementById("totalProcesos").innerHTML =
-            "✅ Total procesos: <b>" + data.length + "</b>";
-
+            "✅ Total procesos<b>" + data.length + "</b>";
+        
+        // Procesos con error
         const errores = data.filter(r => r.ESTADO === "ERROR").length;
         document.getElementById("procesosError").innerHTML =
-            "❌ Procesos con error: <b>" + errores + "</b>";
-
-        const duracionAvg = data.reduce((a,b) => a + parseFloat(b.DURACIONMIN.replace(",",".")),0)/data.length;
-        document.getElementById("duracionPromedio").innerHTML =
-            "⏱ Promedio (min): <b>" + duracionAvg.toFixed(2) + "</b>";
+            "❌ Procesos con error<b>" + errores + "</b>";
+        
+        // Duraciones válidas
+        const duraciones = data
+            .map(r => parseFloat((r.DURACIONMIN || "0").replace(",", ".")))
+            .filter(v => !isNaN(v));
+        
+        const minDuracion = Math.min(...duraciones);
+        const maxDuracion = Math.max(...duraciones);
+        
+        document.getElementById("tiempoMinimo").innerHTML =
+            "⏱ Tiempo mínimo (min)<b>" + minDuracion.toFixed(2) + "</b>";
+        
+        document.getElementById("tiempoMaximo").innerHTML =
+            "⏱ Tiempo máximo (min)<b>" + maxDuracion.toFixed(2) + "</b>";
+        
+        // ===== Fecha de actualización de la data (DD/MM/YYYY) =====
+        // Extraer solo la fecha (DD/MM/YYYY) de FECHAINICIO
+        const fechasTexto = data
+            .map(r => (r.FECHAINICIO || "").trim())
+            .filter(f => f.length >= 10)
+            .map(f => f.substring(0, 10)); // DD/MM/YYYY
+        
+        // Convertir DD/MM/YYYY a YYYYMMDD para poder comparar
+        const fechasOrdenables = fechasTexto.map(f => {
+            const [dd, mm, yyyy] = f.split("/");
+            return {
+                original: f,
+                orden: `${yyyy}${mm}${dd}`
+            };
+        });
+        
+        // Obtener la fecha más reciente
+        if (fechasOrdenables.length > 0) {
+            fechasOrdenables.sort((a, b) => b.orden.localeCompare(a.orden));
+        
+            document.getElementById("fechaActualizacion").innerHTML =
+                "📅 Fecha de actualización de la data: <b>" +
+                fechasOrdenables[0].original +
+                "</b>";
+        } else {
+            document.getElementById("fechaActualizacion").innerHTML =
+                "📅 Fecha de actualización de la data: <b>No disponible</b>";
+        }
 
         // Gráfico por estado
         const estados = {};

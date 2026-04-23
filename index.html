@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Dashboard Procesos Diarios</title>
-
+	<link rel="stylesheet" href="assets/css/estilos.css">
+	
     <!-- Librerías -->
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
@@ -11,19 +12,26 @@
     <link  href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" rel="stylesheet">
     <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
 
-    <style>
-        body { font-family: Arial; margin: 20px; }
-        .kpi { display: inline-block; margin-right: 30px; font-size: 18px; }
-        #charts { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
-    </style>
 </head>
 <body>
 
-<h2>📊 Dashboard de Control Procesos</h2>
+<div class="header">
+    <div class="header-left">
+        <h2>📊 Dashboard de Procesos Ejecutados</h2>
+        <div id="fechaActualizacion" class="fecha"></div>
+    </div>
 
-<div class="kpi" id="totalProcesos"></div>
-<div class="kpi" id="procesosError"></div>
-<div class="kpi" id="duracionPromedio"></div>
+    <div class="header-right">
+        <img src="assets/img/Infra-BD.jpg" alt="Logo Infra BD" class="logo">
+    </div>
+</div>
+
+<div class="kpi-container">
+    <div class="kpi-card" id="totalProcesos"></div>
+    <div class="kpi-card error" id="procesosError"></div>
+    <div class="kpi-card" id="tiempoMinimo"></div>
+    <div class="kpi-card" id="tiempoMaximo"></div>
+</div>
 
 <div id="charts">
     <div id="chartEstados"></div>
