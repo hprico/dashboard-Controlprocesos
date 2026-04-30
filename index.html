@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>Dashboard Procesos Diarios</title>
 	<link rel="stylesheet" href="assets/css/estilos.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
 	
     <!-- Librerías -->
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
@@ -33,6 +34,8 @@
     <div class="kpi-card" id="tiempoMaximo"></div>
 </div>
 
+<div class="kpi-container" id="percentiles"></div>
+
 <div id="charts">
     <div id="chartEstados"></div>
     <div id="chartServidores"></div>
@@ -43,6 +46,11 @@
 
 <h3>📋 Detalle de Procesos</h3>
 <table id="tablaProcesos" class="display"></table>
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
 
 <script src="assets/js/dashboard.js"></script>
 
