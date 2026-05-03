@@ -218,7 +218,7 @@ Papa.parse("data/Controlprocesos_neps.csv", {
             textinfo: 'percent',
             textposition: 'inside'
         }], { 
-            title: { text: '💾 Bases de Datos', font: { size: 16 }, x: 0, align: 'left' },
+            title: { text: '🛢️ Bases de Datos', font: { size: 16 }, x: 0, align: 'left' },
             showlegend: true,
             margin: { t: 40, l: 20, r: 20, b: 20 }
         });
