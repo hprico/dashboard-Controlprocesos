@@ -230,7 +230,15 @@ Papa.parse("data/Controlprocesos_neps.csv", {
         $('#tablaProcesos').DataTable({
             destroy: true,
             data,
-            columns: Object.keys(data[0]).map(c => ({ title: c, data: c }))
+            columns: Object.keys(data[0]).map(c => ({ title: c, data: c })),
+            dom: 'Bfrtip',
+            buttons: [{
+                extend: 'pdf',
+                text: '📄 Exportar a PDF',
+                orientation: 'landscape',
+                pageSize: 'A3',
+                title: 'Detalle de Procesos - Dashboard'
+            }]
         });
     }
 });
