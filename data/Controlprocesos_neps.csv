@@ -539,7 +539,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 380|REP WALKER C100|11/05/2026 03:10:03 AM|11/05/2026 03:30:35 AM|20m 32s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                           
 720|720_CONSULTACUENTAS|11/05/2026 03:12:53 AM|11/05/2026 03:12:55 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 263|REP FACT ESTADOS OUT DIARIO|11/05/2026 03:15:02 AM|11/05/2026 06:20:19 AM|3h 5m 17s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                             
-31|RECAUDO_TOTAL|11/05/2026 03:15:03 AM|||FSBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                        
+31|RECAUDO_TOTAL|11/05/2026 03:15:03 AM|11/05/2026 09:26:13 AM|6h 11m 10s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                           
 720|720_CONSULTACUENTAS|11/05/2026 03:17:53 AM|11/05/2026 03:17:54 AM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|11/05/2026 03:20:00 AM|11/05/2026 03:20:01 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
 220|GENERA FACTURAS PAC|11/05/2026 03:20:01 AM|11/05/2026 03:20:01 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
