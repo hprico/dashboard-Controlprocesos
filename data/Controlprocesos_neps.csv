@@ -724,7 +724,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 527|TXT_COVID4_PYP|11/05/2026 06:00:04 AM|11/05/2026 06:00:35 AM|31s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                                 
 602|RADICACION_PORTAL_TRANSCRIPCION|11/05/2026 06:00:05 AM|11/05/2026 06:00:15 AM|10s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                
 591|REP_AUT_FIBROSIS|11/05/2026 06:00:05 AM|11/05/2026 06:00:16 AM|11s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                              
-532|REPORTECOMPLETO|11/05/2026 06:00:05 AM|||TPBOG001|EN EJECUCION|MENSUAL|PR_BATCH|                                                                                                                    
+532|REPORTECOMPLETO|11/05/2026 06:00:05 AM|11/05/2026 10:20:25 AM|4h 20m 20s|TPBOG001|TERMINADO|MENSUAL|PR_BATCH|                                                                                       
 564|REP_DIRECCIONAMIENTO_HUERFANAS|11/05/2026 06:00:05 AM|11/05/2026 06:00:13 AM|8s|TPBOG001|TERMINADO|SEMANAL|FAMISANA, PR_BATCH|                                                                      
 664|FTP_FACTURACION_ELECTRONICA|11/05/2026 06:00:05 AM|11/05/2026 06:15:57 AM|15m 52s|TPBOG001|TERMINADO|DIARIO|BI|                                                                                     
 663|AUTORIZACIONES_EVT|11/05/2026 06:00:05 AM|11/05/2026 06:00:12 AM|7s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                             
@@ -912,6 +912,6 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 720|720_CONSULTACUENTAS|11/05/2026 09:47:53 AM|11/05/2026 09:47:55 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 220|GENERA FACTURAS PAC|11/05/2026 09:50:00 AM|11/05/2026 09:50:01 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|11/05/2026 09:50:00 AM|11/05/2026 09:50:01 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
-587|PREVALIDACION|11/05/2026 09:52:07 AM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                       
+587|PREVALIDACION|11/05/2026 09:52:07 AM|||TPBOG001|ERROR|DIARIO|FAMISANA|                                                                                                                              
 720|720_CONSULTACUENTAS|11/05/2026 09:52:53 AM|11/05/2026 09:52:55 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 720|720_CONSULTACUENTAS|11/05/2026 09:57:53 AM|11/05/2026 09:57:54 AM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
