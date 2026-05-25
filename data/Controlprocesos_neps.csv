@@ -1091,5 +1091,5 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 354|MOVILIDAD DNP|25/05/2026 01:59:56 PM|25/05/2026 02:00:03 PM|7s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                                  
 318|FACTURAS PENDIENTES|25/05/2026 01:59:58 PM|25/05/2026 02:00:29 PM|31s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                           
 602|RADICACION_PORTAL_TRANSCRIPCION|25/05/2026 01:59:59 PM|25/05/2026 02:00:11 PM|12s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                
-671|EXPORTABLES_V3|25/05/2026 01:59:59 PM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                       
+671|EXPORTABLES_V3|25/05/2026 01:59:59 PM|25/05/2026 02:25:43 PM|25m 44s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                             
 453|MARCACION DE TUTELAS|25/05/2026 01:59:59 PM|25/05/2026 02:00:12 PM|13s|TPBOG001|TERMINADO|DIARIO|N/A|                                                                                               
