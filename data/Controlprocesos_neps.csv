@@ -447,7 +447,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 7|AFILIADOS_CONTACTO_TELEFONICO|01/06/2026 01:49:55 AM|01/06/2026 02:41:23 AM|51m 28s|FSBOG001|TERMINADO|SEMANAL|FAMISANA|                                                                              
 720|720_CONSULTACUENTAS|01/06/2026 01:52:47 AM|01/06/2026 01:52:48 AM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 720|720_CONSULTACUENTAS|01/06/2026 01:57:47 AM|01/06/2026 01:57:48 AM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
-88|AFILIADO XIQ|01/06/2026 01:59:54 AM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                         
+88|AFILIADO XIQ|01/06/2026 01:59:54 AM|01/06/2026 10:21:09 AM|8h 21m 15s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                            
 220|GENERA FACTURAS PAC|01/06/2026 01:59:54 AM|01/06/2026 01:59:54 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 155|IMAGENES PAGOS|01/06/2026 01:59:54 AM|01/06/2026 02:02:05 AM|2m 11s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                             
 271|DESCARGUE MAPISSSUPC|01/06/2026 01:59:54 AM|01/06/2026 01:59:55 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                            
@@ -734,11 +734,11 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 354|MOVILIDAD DNP|01/06/2026 05:59:56 AM|01/06/2026 06:00:10 AM|14s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                                 
 18|DETALLE_AFILIADOS_MES|01/06/2026 05:59:56 AM|01/06/2026 05:59:57 AM|1s|FSBOG001|TERMINADO|MENSUAL|FAMISANA|                                                                                          
 547|JOB_EXT_PLANO_UDEA_RUN|01/06/2026 05:59:56 AM|01/06/2026 06:00:22 AM|26s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                             
-533|REPORTE 4505|01/06/2026 05:59:58 AM|||TPBOG001|EN EJECUCION|MENSUAL|PR_BATCH|                                                                                                                       
+533|REPORTE 4505|01/06/2026 05:59:58 AM|01/06/2026 10:28:33 AM|4h 28m 35s|TPBOG001|TERMINADO|MENSUAL|PR_BATCH|                                                                                          
 602|RADICACION_PORTAL_TRANSCRIPCION|01/06/2026 05:59:59 AM|01/06/2026 06:00:14 AM|15s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                
 12|CAMBIODOC|01/06/2026 05:59:59 AM|01/06/2026 06:00:09 AM|10s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                                      
 593|REP_CARACTERIZACION_PH|01/06/2026 05:59:59 AM|01/06/2026 06:00:26 AM|27s|TPBOG001|TERMINADO|MENSUAL|FAMISANA|                                                                                       
-532|REPORTECOMPLETO|01/06/2026 06:00:00 AM|||TPBOG001|EN EJECUCION|MENSUAL|PR_BATCH|                                                                                                                    
+532|REPORTECOMPLETO|01/06/2026 06:00:00 AM|01/06/2026 10:11:59 AM|4h 11m 59s|TPBOG001|TERMINADO|MENSUAL|PR_BATCH|                                                                                       
 490|REPORTE_ANTICIPACION_PRIORIZADOS|01/06/2026 06:00:01 AM|01/06/2026 06:00:09 AM|8s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                               
 591|REP_AUT_FIBROSIS|01/06/2026 06:00:01 AM|01/06/2026 06:00:21 AM|20s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                              
 663|AUTORIZACIONES_EVT|01/06/2026 06:00:01 AM|01/06/2026 06:00:10 AM|9s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                             
