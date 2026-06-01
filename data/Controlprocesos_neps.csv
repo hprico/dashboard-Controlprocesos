@@ -895,6 +895,6 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 271|DESCARGUE MAPISSSUPC|01/06/2026 08:59:53 AM|01/06/2026 08:59:54 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                            
 223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|01/06/2026 08:59:53 AM|01/06/2026 08:59:53 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
 220|GENERA FACTURAS PAC|01/06/2026 08:59:53 AM|01/06/2026 08:59:53 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
-528|TXT_COVID5_PYP|01/06/2026 08:59:56 AM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                       
+528|TXT_COVID5_PYP|01/06/2026 08:59:56 AM|01/06/2026 09:22:59 AM|23m 3s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                              
 517|REPORTE_BITACORA_TRASLADOS|01/06/2026 08:59:56 AM|01/06/2026 09:00:05 AM|9s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                     
 636|PROCEDIMIENTOS_AYA|01/06/2026 08:59:56 AM|01/06/2026 08:59:57 AM|1s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                                  
