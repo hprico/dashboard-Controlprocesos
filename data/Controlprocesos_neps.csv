@@ -839,13 +839,13 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 220|GENERA FACTURAS PAC|01/06/2026 07:39:53 AM|01/06/2026 07:39:54 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|01/06/2026 07:39:53 AM|01/06/2026 07:39:54 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
 720|720_CONSULTACUENTAS|01/06/2026 07:42:46 AM|01/06/2026 07:42:48 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
-341|REP AFILIADO DIGITURNO|01/06/2026 07:44:55 AM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                              
+341|REP AFILIADO DIGITURNO|01/06/2026 07:44:55 AM|01/06/2026 08:26:49 AM|41m 54s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                    
 720|720_CONSULTACUENTAS|01/06/2026 07:47:46 AM|01/06/2026 07:47:48 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 220|GENERA FACTURAS PAC|01/06/2026 07:49:53 AM|01/06/2026 07:49:54 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|01/06/2026 07:49:53 AM|01/06/2026 07:49:53 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
 720|720_CONSULTACUENTAS|01/06/2026 07:52:46 AM|01/06/2026 07:52:47 AM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 720|720_CONSULTACUENTAS|01/06/2026 07:57:46 AM|01/06/2026 07:57:47 AM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
-303|MOVILIDAD PROGRAMADA|01/06/2026 07:59:52 AM|||BDBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                
+303|MOVILIDAD PROGRAMADA|01/06/2026 07:59:52 AM|01/06/2026 08:08:01 AM|8m 9s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                        
 271|DESCARGUE MAPISSSUPC|01/06/2026 07:59:53 AM|01/06/2026 07:59:55 AM|2s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                            
 55|TAREA_4_CARGUESUPCV5|01/06/2026 07:59:53 AM|01/06/2026 07:59:55 AM|2s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 270|CARGA MAPIISSUPC|01/06/2026 07:59:53 AM|01/06/2026 07:59:54 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                                
