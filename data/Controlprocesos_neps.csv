@@ -1075,5 +1075,5 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 453|MARCACION DE TUTELAS|03/06/2026 01:59:55 PM|03/06/2026 02:00:08 PM|13s|TPBOG001|TERMINADO|DIARIO|N/A|                                                                                               
 671|EXPORTABLES_V3|03/06/2026 01:59:55 PM|03/06/2026 02:25:31 PM|25m 36s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                             
 587|PREVALIDACION|03/06/2026 01:59:56 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                       
-592|REP_OFICINA_VIRTUAL|03/06/2026 01:59:56 PM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                  
+592|REP_OFICINA_VIRTUAL|03/06/2026 01:59:56 PM|03/06/2026 02:31:38 PM|31m 42s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                        
 318|FACTURAS PENDIENTES|03/06/2026 01:59:59 PM|03/06/2026 02:00:37 PM|38s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                           
