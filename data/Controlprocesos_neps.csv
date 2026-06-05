@@ -924,7 +924,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 720|720_CONSULTACUENTAS|05/06/2026 10:52:43 AM|05/06/2026 10:52:45 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 720|720_CONSULTACUENTAS|05/06/2026 10:57:43 AM|05/06/2026 10:57:44 AM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 142|VERIFICADOR DE NOVEDADES|05/06/2026 10:59:49 AM|||BDBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                            
-303|MOVILIDAD PROGRAMADA|05/06/2026 10:59:49 AM|||BDBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                
+303|MOVILIDAD PROGRAMADA|05/06/2026 10:59:49 AM|05/06/2026 11:01:30 AM|1m 41s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                       
 55|TAREA_4_CARGUESUPCV5|05/06/2026 10:59:50 AM|05/06/2026 10:59:51 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 271|DESCARGUE MAPISSSUPC|05/06/2026 10:59:50 AM|05/06/2026 10:59:51 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                            
 722|CARGUE PROCESO SAT|05/06/2026 10:59:50 AM|05/06/2026 10:59:52 AM|2s|TPBOG001|TERMINADO|POR SOLICITUD|FAMISANA|                                                                                      
