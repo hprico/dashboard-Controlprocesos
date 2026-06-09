@@ -189,7 +189,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 722|CARGUE PROCESO SAT|08/06/2026 08:59:50 PM|08/06/2026 09:02:59 PM|3m 9s|TPBOG001|TERMINADO|POR SOLICITUD|FAMISANA|                                                                                   
 270|CARGA MAPIISSUPC|08/06/2026 08:59:50 PM|08/06/2026 08:59:51 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                                
 220|GENERA FACTURAS PAC|08/06/2026 08:59:50 PM|08/06/2026 08:59:50 PM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
-548|SALDOS_DOC|08/06/2026 08:59:51 PM|||TPBOG001|EN EJECUCION|DIARIO|CONT|                                                                                                                              
+548|SALDOS_DOC|08/06/2026 08:59:51 PM|09/06/2026 08:42:41 AM|11h 42m 50s|TPBOG001|TERMINADO|DIARIO|CONT|                                                                                                
 632|115_PROCESO_INCAPACIDADES|08/06/2026 08:59:52 PM|09/06/2026 12:20:36 AM|3h 20m 44s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                              
 679|REP_CALIDAD_FACTDEV|08/06/2026 08:59:52 PM|08/06/2026 11:45:01 PM|2h 45m 9s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                     
 238|CARGUE HISTORICO COMPENSACION 4023|08/06/2026 09:00:56 PM|08/06/2026 11:27:40 PM|2h 26m 44s|BDBOG001|TERMINADO|POR SOLICITUD|FAMISANA|                                                              
@@ -774,7 +774,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 270|CARGA MAPIISSUPC|09/06/2026 07:29:50 AM|09/06/2026 07:29:51 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                                
 55|TAREA_4_CARGUESUPCV5|09/06/2026 07:29:50 AM|09/06/2026 07:29:51 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 220|GENERA FACTURAS PAC|09/06/2026 07:29:50 AM|09/06/2026 07:29:50 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
-471|REP_RIPS_DIARIOS|09/06/2026 07:29:51 AM|||TPBOG001|EN EJECUCION|DIARIO|PRMASIVO|                                                                                                                    
+471|REP_RIPS_DIARIOS|09/06/2026 07:29:51 AM|09/06/2026 08:41:45 AM|1h 11m 54s|TPBOG001|TERMINADO|DIARIO|PRMASIVO|                                                                                       
 487|REPORTE_POBLACION_PRIORIZADA_COVID|09/06/2026 07:29:51 AM|09/06/2026 07:30:17 AM|26s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                 
 720|720_CONSULTACUENTAS|09/06/2026 07:32:42 AM|09/06/2026 07:32:44 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 720|720_CONSULTACUENTAS|09/06/2026 07:37:43 AM|09/06/2026 07:37:44 AM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
