@@ -1040,7 +1040,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 55|TAREA_4_CARGUESUPCV5|18/06/2026 01:29:45 PM|18/06/2026 01:29:46 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 222|PASO DE FACTURAS POR INTERFAZ A APOTEOSYS|18/06/2026 01:29:45 PM|18/06/2026 01:29:45 PM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                       
 220|GENERA FACTURAS PAC|18/06/2026 01:29:45 PM|18/06/2026 01:29:45 PM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
-249|AUTORIZACIONES DE MEDICAMENTOS - CAFAM|18/06/2026 01:30:46 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                              
+249|AUTORIZACIONES DE MEDICAMENTOS - CAFAM|18/06/2026 01:30:46 PM|18/06/2026 02:09:52 PM|39m 6s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                     
 720|720_CONSULTACUENTAS|18/06/2026 01:32:37 PM|18/06/2026 01:32:39 PM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 720|720_CONSULTACUENTAS|18/06/2026 01:37:37 PM|18/06/2026 01:37:39 PM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|18/06/2026 01:39:45 PM|18/06/2026 01:39:45 PM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
@@ -1066,7 +1066,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 318|FACTURAS PENDIENTES|18/06/2026 01:59:47 PM|18/06/2026 01:59:56 PM|9s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                            
 364|NOVEDADES DE AUTORIZACION POR USUARIO|18/06/2026 01:59:47 PM|18/06/2026 02:02:45 PM|2m 58s|TPBOG001|TERMINADO|SEMANAL|FAMISANA|                                                                     
 602|RADICACION_PORTAL_TRANSCRIPCION|18/06/2026 01:59:47 PM|18/06/2026 01:59:59 PM|12s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                
-671|EXPORTABLES_V3|18/06/2026 01:59:47 PM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                       
+671|EXPORTABLES_V3|18/06/2026 01:59:47 PM|18/06/2026 02:25:31 PM|25m 44s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                             
 592|REP_OFICINA_VIRTUAL|18/06/2026 01:59:48 PM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                  
 520|VACUNACION_AFILIADOS|17/06/2026 06:59:49 AM|||TPBOG001|EN EJECUCION|DIARIO|PRMASIVO|                                                                                                                
 128|REP FACTURAS - ASESOR|12/06/2026 04:59:46 PM|||TPBOG001|EN EJECUCION|SEMANAL|BI|                                                                                                                    
