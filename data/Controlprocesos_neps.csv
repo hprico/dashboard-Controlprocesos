@@ -706,7 +706,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 602|RADICACION_PORTAL_TRANSCRIPCION|22/06/2026 05:59:48 AM|22/06/2026 05:59:58 AM|10s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                
 490|REPORTE_ANTICIPACION_PRIORIZADOS|22/06/2026 05:59:48 AM|22/06/2026 05:59:53 AM|5s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                               
 526|TXT_COVID4|22/06/2026 05:59:48 AM|22/06/2026 06:00:00 AM|12s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                                     
-532|REPORTECOMPLETO|22/06/2026 05:59:48 AM|||TPBOG001|EN EJECUCION|MENSUAL|PR_BATCH|                                                                                                                    
+532|REPORTECOMPLETO|22/06/2026 05:59:48 AM|22/06/2026 08:30:25 AM|2h 30m 37s|TPBOG001|TERMINADO|MENSUAL|PR_BATCH|                                                                                       
 12|CAMBIODOC|22/06/2026 05:59:48 AM|22/06/2026 05:59:57 AM|9s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                                       
 413|REP_CONTROL_GLOSA_95|22/06/2026 05:59:49 AM|22/06/2026 06:03:57 AM|4m 8s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                        
 663|AUTORIZACIONES_EVT|22/06/2026 05:59:49 AM|22/06/2026 05:59:53 AM|4s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                             
@@ -792,7 +792,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 222|PASO DE FACTURAS POR INTERFAZ A APOTEOSYS|22/06/2026 07:29:43 AM|22/06/2026 07:29:43 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                       
 418|REP_IPS_TRC_CAPITADOS|22/06/2026 07:29:44 AM|22/06/2026 07:30:02 AM|18s|TPBOG001|TERMINADO|SEMANAL|APPNEPS|                                                                                         
 487|REPORTE_POBLACION_PRIORIZADA_COVID|22/06/2026 07:29:44 AM|22/06/2026 07:30:09 AM|25s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                 
-471|REP_RIPS_DIARIOS|22/06/2026 07:29:45 AM|||TPBOG001|EN EJECUCION|DIARIO|PRMASIVO|                                                                                                                    
+471|REP_RIPS_DIARIOS|22/06/2026 07:29:45 AM|22/06/2026 08:30:01 AM|1h 16s|TPBOG001|TERMINADO|DIARIO|PRMASIVO|                                                                                           
 720|720_CONSULTACUENTAS|22/06/2026 07:32:35 AM|22/06/2026 07:32:37 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 720|720_CONSULTACUENTAS|22/06/2026 07:37:35 AM|22/06/2026 07:37:37 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|22/06/2026 07:39:42 AM|22/06/2026 07:39:43 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
