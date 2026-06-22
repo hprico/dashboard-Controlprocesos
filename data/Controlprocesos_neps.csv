@@ -856,7 +856,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 271|DESCARGUE MAPISSSUPC|22/06/2026 08:59:43 AM|22/06/2026 08:59:44 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                            
 636|PROCEDIMIENTOS_AYA|22/06/2026 08:59:44 AM|22/06/2026 08:59:46 AM|2s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                                  
 517|REPORTE_BITACORA_TRASLADOS|22/06/2026 08:59:44 AM|22/06/2026 08:59:52 AM|8s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                     
-528|TXT_COVID5_PYP|22/06/2026 08:59:44 AM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                       
+528|TXT_COVID5_PYP|22/06/2026 08:59:44 AM|22/06/2026 09:20:49 AM|21m 5s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                              
 88|AFILIADO XIQ|21/06/2026 07:59:46 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                         
 479|PACIENTES_PRIORIZADOS|20/06/2026 01:00:43 AM|||TPBOG001|EN EJECUCION|DIARIO|MDE|                                                                                                                    
 579|REPORTE_CALIDAD|19/06/2026 08:29:45 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA, BI|                                                                                                                 
