@@ -975,7 +975,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 222|PASO DE FACTURAS POR INTERFAZ A APOTEOSYS|23/06/2026 11:59:41 AM|23/06/2026 11:59:42 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                       
 357|MOVILIDAD RETIROS|23/06/2026 11:59:43 AM|23/06/2026 12:03:34 PM|3m 51s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                          
 361|DESCARGUE MIPRES 3951|23/06/2026 11:59:43 AM|23/06/2026 11:59:53 AM|10s|TPBOG001|TERMINADO|DIARIO|PR_BATCH|                                                                                         
-513|REPORTE_TABLERO_CONTROL|23/06/2026 11:59:44 AM|||TPBOG001|EN EJECUCION|DIARIO|PR_BATCH|                                                                                                             
+513|REPORTE_TABLERO_CONTROL|23/06/2026 11:59:44 AM|23/06/2026 12:16:19 PM|16m 35s|TPBOG001|TERMINADO|DIARIO|PR_BATCH|                                                                                   
 638|REP_CALIDAD_CAPITA|23/06/2026 11:59:44 AM|23/06/2026 12:02:49 PM|3m 5s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                          
 526|TXT_COVID4|23/06/2026 11:59:45 AM|23/06/2026 11:59:53 AM|8s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                                      
 527|TXT_COVID4_PYP|23/06/2026 11:59:46 AM|23/06/2026 12:00:09 PM|23s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                                 
