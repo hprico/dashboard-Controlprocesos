@@ -1100,7 +1100,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 453|MARCACION DE TUTELAS|01/07/2026 01:59:40 PM|01/07/2026 01:59:46 PM|6s|TPBOG001|TERMINADO|DIARIO|N/A|                                                                                                
 364|NOVEDADES DE AUTORIZACION POR USUARIO|01/07/2026 01:59:40 PM|01/07/2026 02:10:51 PM|11m 11s|TPBOG001|TERMINADO|SEMANAL|FAMISANA|                                                                    
 592|REP_OFICINA_VIRTUAL|01/07/2026 01:59:40 PM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                  
-671|EXPORTABLES_V3|01/07/2026 01:59:41 PM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                       
+671|EXPORTABLES_V3|01/07/2026 01:59:41 PM|01/07/2026 02:26:24 PM|26m 43s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                             
 587|PREVALIDACION|01/07/2026 01:59:41 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                       
 318|FACTURAS PENDIENTES|01/07/2026 01:59:41 PM|01/07/2026 02:00:16 PM|35s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                           
 479|PACIENTES_PRIORIZADOS|30/06/2026 01:00:37 AM|||TPBOG001|EN EJECUCION|DIARIO|MDE|                                                                                                                    
