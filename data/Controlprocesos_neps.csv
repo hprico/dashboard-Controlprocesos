@@ -997,7 +997,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 720|720_CONSULTACUENTAS|02/07/2026 12:17:30 PM|02/07/2026 12:17:31 PM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|02/07/2026 12:19:37 PM|02/07/2026 12:19:37 PM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
 220|GENERA FACTURAS PAC|02/07/2026 12:19:37 PM|02/07/2026 12:19:37 PM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
-238|CARGUE HISTORICO COMPENSACION 4023|02/07/2026 12:21:50 PM|||BDBOG001|EN EJECUCION|POR SOLICITUD|FAMISANA|                                                                                           
+238|CARGUE HISTORICO COMPENSACION 4023|02/07/2026 12:21:50 PM|02/07/2026 03:13:32 PM|2h 51m 42s|BDBOG001|TERMINADO|POR SOLICITUD|FAMISANA|                                                              
 720|720_CONSULTACUENTAS|02/07/2026 12:22:30 PM|02/07/2026 12:22:31 PM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 720|720_CONSULTACUENTAS|02/07/2026 12:27:30 PM|02/07/2026 12:27:31 PM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 303|MOVILIDAD PROGRAMADA|02/07/2026 12:29:36 PM|02/07/2026 12:31:02 PM|1m 26s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                       
