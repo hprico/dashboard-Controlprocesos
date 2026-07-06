@@ -773,7 +773,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 55|TAREA_4_CARGUESUPCV5|06/07/2026 06:59:38 AM|06/07/2026 06:59:39 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 486|REPORTE_GESTION_PRESTADOR_PBS_EMISION|06/07/2026 06:59:39 AM|06/07/2026 06:59:44 AM|5s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                          
 431|448467_REP_RESUMEN_DISCOVER|06/07/2026 06:59:39 AM|06/07/2026 06:59:45 AM|6s|TPBOG001|TERMINADO|SEMANAL|FAMISANA|                                                                                   
-651|REP_FACT_LIQ|06/07/2026 06:59:39 AM|||TPBOG001|EN EJECUCION|SEMANAL|FAMISANA|                                                                                                                       
+651|REP_FACT_LIQ|06/07/2026 06:59:39 AM|06/07/2026 09:46:12 AM|2h 46m 33s|TPBOG001|TERMINADO|SEMANAL|FAMISANA|                                                                                          
 520|VACUNACION_AFILIADOS|06/07/2026 06:59:40 AM|06/07/2026 06:59:44 AM|4s|TPBOG001|TERMINADO|DIARIO|PRMASIVO|                                                                                           
 475|REPORTE_ORDENAMIENTO_AYA|06/07/2026 06:59:40 AM|06/07/2026 06:59:44 AM|4s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                            
 449|REP_RADICACION_AUTOMATICA|06/07/2026 06:59:40 AM|06/07/2026 06:59:46 AM|6s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                      
@@ -864,8 +864,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 222|PASO DE FACTURAS POR INTERFAZ A APOTEOSYS|06/07/2026 08:59:37 AM|06/07/2026 08:59:37 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                       
 271|DESCARGUE MAPISSSUPC|06/07/2026 08:59:37 AM|06/07/2026 08:59:38 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                            
 517|REPORTE_BITACORA_TRASLADOS|06/07/2026 08:59:38 AM|06/07/2026 08:59:46 AM|8s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                     
-528|TXT_COVID5_PYP|06/07/2026 08:59:39 AM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                       
+528|TXT_COVID5_PYP|06/07/2026 08:59:39 AM|06/07/2026 09:24:13 AM|24m 34s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                             
 636|PROCEDIMIENTOS_AYA|06/07/2026 08:59:39 AM|06/07/2026 08:59:41 AM|2s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                                  
-579|REPORTE_CALIDAD|03/07/2026 08:29:38 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA, BI|                                                                                                                 
 686|REPORTE_GT007|01/07/2026 05:59:39 AM|||TPBOG001|EN EJECUCION|SEMESTRAL|APPNEPS|                                                                                                                     
 479|PACIENTES_PRIORIZADOS|04/07/2026 01:00:35 AM|||TPBOG001|EN EJECUCION|DIARIO|MDE|                                                                                                                    
