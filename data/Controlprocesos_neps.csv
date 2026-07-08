@@ -1068,7 +1068,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 587|PREVALIDACION|08/07/2026 01:59:37 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                       
 592|REP_OFICINA_VIRTUAL|08/07/2026 01:59:37 PM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                  
 602|RADICACION_PORTAL_TRANSCRIPCION|08/07/2026 01:59:37 PM|08/07/2026 01:59:46 PM|9s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                 
-671|EXPORTABLES_V3|08/07/2026 01:59:38 PM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                       
+671|EXPORTABLES_V3|08/07/2026 01:59:38 PM|08/07/2026 02:24:56 PM|25m 18s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                             
 318|FACTURAS PENDIENTES|08/07/2026 01:59:41 PM|08/07/2026 02:00:18 PM|37s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                           
 479|PACIENTES_PRIORIZADOS|07/07/2026 01:00:33 AM|||TPBOG001|EN EJECUCION|DIARIO|MDE|                                                                                                                    
 686|REPORTE_GT007|01/07/2026 05:59:39 AM|||TPBOG001|EN EJECUCION|SEMESTRAL|APPNEPS|                                                                                                                     
