@@ -1058,7 +1058,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 55|TAREA_4_CARGUESUPCV5|15/07/2026 01:29:35 PM|15/07/2026 01:29:36 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 222|PASO DE FACTURAS POR INTERFAZ A APOTEOSYS|15/07/2026 01:29:35 PM|15/07/2026 01:29:35 PM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                       
 271|DESCARGUE MAPISSSUPC|15/07/2026 01:29:35 PM|15/07/2026 01:29:36 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                            
-249|AUTORIZACIONES DE MEDICAMENTOS - CAFAM|15/07/2026 01:30:33 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                              
+249|AUTORIZACIONES DE MEDICAMENTOS - CAFAM|15/07/2026 01:30:33 PM|15/07/2026 02:09:25 PM|38m 52s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                    
 720|720_CONSULTACUENTAS|15/07/2026 01:32:24 PM|15/07/2026 01:32:26 PM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 720|720_CONSULTACUENTAS|15/07/2026 01:37:24 PM|15/07/2026 01:37:26 PM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|15/07/2026 01:39:31 PM|15/07/2026 01:39:32 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
@@ -1079,11 +1079,11 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 364|NOVEDADES DE AUTORIZACION POR USUARIO|15/07/2026 01:59:33 PM|15/07/2026 02:02:18 PM|2m 45s|TPBOG001|TERMINADO|SEMANAL|FAMISANA|                                                                     
 587|PREVALIDACION|15/07/2026 01:59:33 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                       
 270|CARGA MAPIISSUPC|15/07/2026 01:59:33 PM|15/07/2026 01:59:34 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                                
-592|REP_OFICINA_VIRTUAL|15/07/2026 01:59:34 PM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                  
+592|REP_OFICINA_VIRTUAL|15/07/2026 01:59:34 PM|15/07/2026 02:27:12 PM|27m 38s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                        
 602|RADICACION_PORTAL_TRANSCRIPCION|15/07/2026 01:59:34 PM|15/07/2026 01:59:47 PM|13s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                
 271|DESCARGUE MAPISSSUPC|15/07/2026 01:59:34 PM|15/07/2026 01:59:35 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                            
 55|TAREA_4_CARGUESUPCV5|15/07/2026 01:59:34 PM|15/07/2026 01:59:35 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
-671|EXPORTABLES_V3|15/07/2026 01:59:35 PM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                       
+671|EXPORTABLES_V3|15/07/2026 01:59:35 PM|15/07/2026 02:25:55 PM|26m 20s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                             
 453|MARCACION DE TUTELAS|15/07/2026 01:59:35 PM|15/07/2026 01:59:39 PM|4s|TPBOG001|TERMINADO|DIARIO|N/A|                                                                                                
 318|FACTURAS PENDIENTES|15/07/2026 01:59:38 PM|15/07/2026 02:00:14 PM|36s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                           
 479|PACIENTES_PRIORIZADOS|13/07/2026 01:00:30 AM|||TPBOG001|EN EJECUCION|DIARIO|MDE|                                                                                                                    
