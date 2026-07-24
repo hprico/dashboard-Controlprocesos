@@ -1064,14 +1064,14 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 354|MOVILIDAD DNP|24/07/2026 01:59:27 PM|24/07/2026 01:59:33 PM|6s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                                  
 270|CARGA MAPIISSUPC|24/07/2026 01:59:27 PM|24/07/2026 01:59:28 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                                
 222|PASO DE FACTURAS POR INTERFAZ A APOTEOSYS|24/07/2026 01:59:27 PM|24/07/2026 01:59:28 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                       
-587|PREVALIDACION|24/07/2026 01:59:28 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                       
+587|PREVALIDACION|24/07/2026 01:59:28 PM|24/07/2026 02:50:34 PM|51m 6s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                              
 55|TAREA_4_CARGUESUPCV5|24/07/2026 01:59:28 PM|24/07/2026 01:59:29 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 271|DESCARGUE MAPISSSUPC|24/07/2026 01:59:28 PM|24/07/2026 01:59:29 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                            
 364|NOVEDADES DE AUTORIZACION POR USUARIO|24/07/2026 01:59:29 PM|24/07/2026 02:02:38 PM|3m 9s|TPBOG001|TERMINADO|SEMANAL|FAMISANA|                                                                      
 453|MARCACION DE TUTELAS|24/07/2026 01:59:30 PM|24/07/2026 01:59:36 PM|6s|TPBOG001|TERMINADO|DIARIO|N/A|                                                                                                
 602|RADICACION_PORTAL_TRANSCRIPCION|24/07/2026 01:59:30 PM|24/07/2026 01:59:43 PM|13s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                
-592|REP_OFICINA_VIRTUAL|24/07/2026 01:59:31 PM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                  
-671|EXPORTABLES_V3|24/07/2026 01:59:31 PM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                       
+592|REP_OFICINA_VIRTUAL|24/07/2026 01:59:31 PM|24/07/2026 02:28:24 PM|28m 53s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                        
+671|EXPORTABLES_V3|24/07/2026 01:59:31 PM|24/07/2026 02:24:50 PM|25m 19s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                             
 318|FACTURAS PENDIENTES|24/07/2026 01:59:32 PM|24/07/2026 02:00:09 PM|37s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                           
 579|REPORTE_CALIDAD|21/07/2026 08:29:31 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA, BI|                                                                                                                 
 686|REPORTE_GT007|01/07/2026 05:59:39 AM|||TPBOG001|EN EJECUCION|SEMESTRAL|APPNEPS|                                                                                                                     
