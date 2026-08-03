@@ -1093,13 +1093,13 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 222|PASO DE FACTURAS POR INTERFAZ A APOTEOSYS|03/08/2026 01:59:23 PM|03/08/2026 01:59:23 PM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                       
 271|DESCARGUE MAPISSSUPC|03/08/2026 01:59:23 PM|03/08/2026 01:59:24 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                            
 55|TAREA_4_CARGUESUPCV5|03/08/2026 01:59:23 PM|03/08/2026 01:59:24 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
-587|PREVALIDACION|03/08/2026 01:59:24 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                       
+587|PREVALIDACION|03/08/2026 01:59:24 PM|03/08/2026 02:49:43 PM|50m 19s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                             
 453|MARCACION DE TUTELAS|03/08/2026 01:59:25 PM|03/08/2026 01:59:33 PM|8s|TPBOG001|TERMINADO|DIARIO|N/A|                                                                                                
 602|RADICACION_PORTAL_TRANSCRIPCION|03/08/2026 01:59:25 PM|03/08/2026 01:59:38 PM|13s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                
-592|REP_OFICINA_VIRTUAL|03/08/2026 01:59:26 PM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                  
+592|REP_OFICINA_VIRTUAL|03/08/2026 01:59:26 PM|03/08/2026 02:27:37 PM|28m 11s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                        
 364|NOVEDADES DE AUTORIZACION POR USUARIO|03/08/2026 01:59:27 PM|03/08/2026 02:02:45 PM|3m 18s|TPBOG001|TERMINADO|SEMANAL|FAMISANA|                                                                     
 318|FACTURAS PENDIENTES|03/08/2026 01:59:27 PM|03/08/2026 02:00:03 PM|36s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                           
-671|EXPORTABLES_V3|03/08/2026 01:59:29 PM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                       
+671|EXPORTABLES_V3|03/08/2026 01:59:29 PM|03/08/2026 02:25:34 PM|26m 5s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                              
 579|REPORTE_CALIDAD|31/07/2026 08:29:25 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA, BI|                                                                                                                 
 18|DETALLE_AFILIADOS_MES|01/08/2026 05:59:32 AM|||FSBOG001|EN EJECUCION|MENSUAL|FAMISANA|                                                                                                               
 18|DETALLE_AFILIADOS_MES|01/08/2026 05:59:32 AM|||FSBOG001|EN EJECUCION|MENSUAL|FAMISANA|                                                                                                               
