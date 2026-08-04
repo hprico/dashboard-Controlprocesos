@@ -1072,9 +1072,9 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 364|NOVEDADES DE AUTORIZACION POR USUARIO|04/08/2026 01:59:23 PM|04/08/2026 02:02:40 PM|3m 17s|TPBOG001|TERMINADO|SEMANAL|FAMISANA|                                                                     
 587|PREVALIDACION|04/08/2026 01:59:23 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                       
 453|MARCACION DE TUTELAS|04/08/2026 01:59:25 PM|04/08/2026 01:59:32 PM|7s|TPBOG001|TERMINADO|DIARIO|N/A|                                                                                                
-671|EXPORTABLES_V3|04/08/2026 01:59:25 PM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                       
+671|EXPORTABLES_V3|04/08/2026 01:59:25 PM|04/08/2026 02:26:23 PM|26m 58s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                             
 602|RADICACION_PORTAL_TRANSCRIPCION|04/08/2026 01:59:25 PM|04/08/2026 01:59:38 PM|13s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                
-592|REP_OFICINA_VIRTUAL|04/08/2026 01:59:25 PM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                  
+592|REP_OFICINA_VIRTUAL|04/08/2026 01:59:25 PM|04/08/2026 02:29:08 PM|29m 43s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                        
 318|FACTURAS PENDIENTES|04/08/2026 01:59:28 PM|04/08/2026 02:00:05 PM|37s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                           
 579|REPORTE_CALIDAD|03/08/2026 08:29:23 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA, BI|                                                                                                                 
 18|DETALLE_AFILIADOS_MES|01/08/2026 05:59:32 AM|||FSBOG001|EN EJECUCION|MENSUAL|FAMISANA|                                                                                                               
