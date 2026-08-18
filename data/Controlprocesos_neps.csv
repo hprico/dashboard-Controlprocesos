@@ -1067,7 +1067,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 671|EXPORTABLES_V3|18/08/2026 01:59:15 PM|18/08/2026 02:27:28 PM|28m 13s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                             
 592|REP_OFICINA_VIRTUAL|18/08/2026 01:59:16 PM|18/08/2026 02:27:39 PM|28m 23s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                        
 364|NOVEDADES DE AUTORIZACION POR USUARIO|18/08/2026 01:59:16 PM|18/08/2026 01:59:37 PM|21s|TPBOG001|TERMINADO|SEMANAL|FAMISANA|                                                                        
-587|PREVALIDACION|18/08/2026 01:59:16 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                       
+587|PREVALIDACION|18/08/2026 01:59:16 PM|18/08/2026 02:50:26 PM|51m 10s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                             
 318|FACTURAS PENDIENTES|18/08/2026 01:59:19 PM|18/08/2026 01:59:57 PM|38s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                           
 579|REPORTE_CALIDAD|15/08/2026 08:29:16 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA, BI|                                                                                                                 
 18|DETALLE_AFILIADOS_MES|01/08/2026 05:59:32 AM|||FSBOG001|EN EJECUCION|MENSUAL|FAMISANA|                                                                                                               
