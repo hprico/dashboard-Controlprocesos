@@ -1066,10 +1066,10 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 354|MOVILIDAD DNP|19/08/2026 01:59:13 PM|19/08/2026 01:59:18 PM|5s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                                  
 453|MARCACION DE TUTELAS|19/08/2026 01:59:14 PM|19/08/2026 01:59:20 PM|6s|TPBOG001|TERMINADO|DIARIO|N/A|                                                                                                
 55|TAREA_4_CARGUESUPCV5|19/08/2026 01:59:14 PM|19/08/2026 01:59:15 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
-671|EXPORTABLES_V3|19/08/2026 01:59:15 PM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                       
+671|EXPORTABLES_V3|19/08/2026 01:59:15 PM|19/08/2026 02:26:32 PM|27m 17s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                             
 587|PREVALIDACION|19/08/2026 01:59:15 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                       
 602|RADICACION_PORTAL_TRANSCRIPCION|19/08/2026 01:59:15 PM|19/08/2026 01:59:29 PM|14s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                
-592|REP_OFICINA_VIRTUAL|19/08/2026 01:59:16 PM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                  
+592|REP_OFICINA_VIRTUAL|19/08/2026 01:59:16 PM|19/08/2026 02:27:21 PM|28m 5s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                         
 364|NOVEDADES DE AUTORIZACION POR USUARIO|19/08/2026 01:59:17 PM|19/08/2026 02:01:51 PM|2m 34s|TPBOG001|TERMINADO|SEMANAL|FAMISANA|                                                                     
 318|FACTURAS PENDIENTES|19/08/2026 01:59:20 PM|19/08/2026 01:59:54 PM|34s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                           
 18|DETALLE_AFILIADOS_MES|01/08/2026 05:59:32 AM|||FSBOG001|EN EJECUCION|MENSUAL|FAMISANA|                                                                                                               
