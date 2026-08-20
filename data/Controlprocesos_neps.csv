@@ -435,7 +435,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 134|GESTION|20/08/2026 01:59:13 AM|20/08/2026 02:00:48 AM|1m 35s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                                    
 354|MOVILIDAD DNP|20/08/2026 01:59:13 AM|20/08/2026 01:59:18 AM|5s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                                  
 142|VERIFICADOR DE NOVEDADES|20/08/2026 01:59:13 AM|20/08/2026 02:57:18 AM|58m 5s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                   
-89|REPORTE AUDITORIA IQ|20/08/2026 01:59:13 AM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                 
+89|REPORTE AUDITORIA IQ|20/08/2026 01:59:13 AM|20/08/2026 11:15:07 AM|9h 15m 54s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                    
 155|IMAGENES PAGOS|20/08/2026 01:59:13 AM|20/08/2026 02:01:47 AM|2m 34s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                             
 547|JOB_EXT_PLANO_UDEA_RUN|20/08/2026 01:59:13 AM|20/08/2026 01:59:19 AM|6s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                              
 220|GENERA FACTURAS PAC|20/08/2026 01:59:14 AM|20/08/2026 01:59:14 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
@@ -878,9 +878,59 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 271|DESCARGUE MAPISSSUPC|20/08/2026 09:59:13 AM|20/08/2026 09:59:14 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                            
 222|PASO DE FACTURAS POR INTERFAZ A APOTEOSYS|20/08/2026 09:59:13 AM|20/08/2026 09:59:13 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                       
 220|GENERA FACTURAS PAC|20/08/2026 09:59:13 AM|20/08/2026 09:59:13 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
-587|PREVALIDACION|20/08/2026 09:59:14 AM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                       
+587|PREVALIDACION|20/08/2026 09:59:14 AM|20/08/2026 10:53:51 AM|54m 37s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                             
 364|NOVEDADES DE AUTORIZACION POR USUARIO|20/08/2026 09:59:14 AM|20/08/2026 10:02:28 AM|3m 14s|TPBOG001|TERMINADO|SEMANAL|FAMISANA|                                                                     
 373|ACT ESTADO GRIC|20/08/2026 09:59:21 AM|20/08/2026 09:59:24 AM|3s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                                
+243|AUTORIZACIONES DE MEDICAMENTOS - AUDIFARMA|20/08/2026 10:00:14 AM|20/08/2026 10:00:46 AM|32s|APBOG006|TERMINADO|DIARIO|FAMISANA|                                                                    
+720|720_CONSULTACUENTAS|20/08/2026 10:02:05 AM|20/08/2026 10:02:07 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
+243|AUTORIZACIONES DE MEDICAMENTOS - AUDIFARMA|20/08/2026 10:05:14 AM|20/08/2026 10:05:40 AM|26s|APBOG006|TERMINADO|DIARIO|FAMISANA|                                                                    
+720|720_CONSULTACUENTAS|20/08/2026 10:07:05 AM|20/08/2026 10:07:07 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
+223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|20/08/2026 10:09:13 AM|20/08/2026 10:09:13 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
+220|GENERA FACTURAS PAC|20/08/2026 10:09:13 AM|20/08/2026 10:09:13 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
+720|720_CONSULTACUENTAS|20/08/2026 10:12:05 AM|20/08/2026 10:12:07 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
+244|AUTORIZACIONES DE MEDICAMENTOS - COLSUBSIDIO|20/08/2026 10:14:12 AM|20/08/2026 10:14:47 AM|35s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                  
+249|AUTORIZACIONES DE MEDICAMENTOS - CAFAM|20/08/2026 10:14:14 AM|20/08/2026 10:14:24 AM|10s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                        
+720|720_CONSULTACUENTAS|20/08/2026 10:17:05 AM|20/08/2026 10:17:07 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
+223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|20/08/2026 10:19:12 AM|20/08/2026 10:19:13 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
+220|GENERA FACTURAS PAC|20/08/2026 10:19:13 AM|20/08/2026 10:19:13 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
+720|720_CONSULTACUENTAS|20/08/2026 10:22:05 AM|20/08/2026 10:22:07 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
+720|720_CONSULTACUENTAS|20/08/2026 10:27:05 AM|20/08/2026 10:27:07 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
+303|MOVILIDAD PROGRAMADA|20/08/2026 10:29:12 AM|20/08/2026 10:36:27 AM|7m 15s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                       
+355|MOVILIDAD EPSS37|20/08/2026 10:29:12 AM|20/08/2026 10:29:20 AM|8s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                               
+547|JOB_EXT_PLANO_UDEA_RUN|20/08/2026 10:29:12 AM|20/08/2026 10:29:17 AM|5s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                              
+270|CARGA MAPIISSUPC|20/08/2026 10:29:13 AM|20/08/2026 10:29:14 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                                
+223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|20/08/2026 10:29:13 AM|20/08/2026 10:29:13 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
+222|PASO DE FACTURAS POR INTERFAZ A APOTEOSYS|20/08/2026 10:29:13 AM|20/08/2026 10:29:13 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                       
+220|GENERA FACTURAS PAC|20/08/2026 10:29:13 AM|20/08/2026 10:29:13 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
+271|DESCARGUE MAPISSSUPC|20/08/2026 10:29:14 AM|20/08/2026 10:29:15 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                            
+441|ACTUALIZA_TIPO_ANEXO_TUTELA|20/08/2026 10:29:14 AM|20/08/2026 10:29:18 AM|4s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                    
+55|TAREA_4_CARGUESUPCV5|20/08/2026 10:29:14 AM|20/08/2026 10:29:15 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
+551|REPORTE_OFICINA_VIRTUAL_RN|20/08/2026 10:29:14 AM|20/08/2026 10:29:21 AM|7s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                     
+249|AUTORIZACIONES DE MEDICAMENTOS - CAFAM|20/08/2026 10:30:14 AM|20/08/2026 10:30:42 AM|28s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                        
+720|720_CONSULTACUENTAS|20/08/2026 10:32:05 AM|20/08/2026 10:32:06 AM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
+720|720_CONSULTACUENTAS|20/08/2026 10:37:05 AM|20/08/2026 10:37:07 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
+223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|20/08/2026 10:39:13 AM|20/08/2026 10:39:14 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
+220|GENERA FACTURAS PAC|20/08/2026 10:39:13 AM|20/08/2026 10:39:14 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
+720|720_CONSULTACUENTAS|20/08/2026 10:42:05 AM|20/08/2026 10:42:07 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
+356|MOVILIDAD EPSS41|20/08/2026 10:44:12 AM|20/08/2026 10:44:34 AM|22s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                              
+720|720_CONSULTACUENTAS|20/08/2026 10:47:05 AM|20/08/2026 10:47:06 AM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
+223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|20/08/2026 10:49:12 AM|20/08/2026 10:49:13 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
+220|GENERA FACTURAS PAC|20/08/2026 10:49:12 AM|20/08/2026 10:49:13 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
+720|720_CONSULTACUENTAS|20/08/2026 10:52:05 AM|20/08/2026 10:52:06 AM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
+720|720_CONSULTACUENTAS|20/08/2026 10:57:05 AM|20/08/2026 10:57:07 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
+303|MOVILIDAD PROGRAMADA|20/08/2026 10:59:12 AM|20/08/2026 11:01:10 AM|1m 58s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                       
+722|CARGUE PROCESO SAT|20/08/2026 10:59:12 AM|20/08/2026 10:59:15 AM|3s|TPBOG001|TERMINADO|POR SOLICITUD|FAMISANA|                                                                                      
+223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|20/08/2026 10:59:12 AM|20/08/2026 10:59:13 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
+142|VERIFICADOR DE NOVEDADES|20/08/2026 10:59:12 AM|||BDBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                            
+547|JOB_EXT_PLANO_UDEA_RUN|20/08/2026 10:59:12 AM|20/08/2026 10:59:17 AM|5s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                              
+55|TAREA_4_CARGUESUPCV5|20/08/2026 10:59:13 AM|20/08/2026 10:59:15 AM|2s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
+222|PASO DE FACTURAS POR INTERFAZ A APOTEOSYS|20/08/2026 10:59:13 AM|20/08/2026 10:59:13 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                       
+270|CARGA MAPIISSUPC|20/08/2026 10:59:13 AM|20/08/2026 10:59:14 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                                
+220|GENERA FACTURAS PAC|20/08/2026 10:59:13 AM|20/08/2026 10:59:13 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
+271|DESCARGUE MAPISSSUPC|20/08/2026 10:59:13 AM|20/08/2026 10:59:14 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                            
+422|RADICACION_MASIVA_CUENTAS_MEDICAS|20/08/2026 10:59:14 AM|20/08/2026 10:59:23 AM|9s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                              
+517|REPORTE_BITACORA_TRASLADOS|20/08/2026 10:59:15 AM|20/08/2026 10:59:23 AM|8s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                     
+507|REPORTE_POSFECHADAS_RN|20/08/2026 10:59:44 AM|20/08/2026 10:59:49 AM|5s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                         
 18|DETALLE_AFILIADOS_MES|01/08/2026 05:59:32 AM|||FSBOG001|EN EJECUCION|MENSUAL|FAMISANA|                                                                                                               
 18|DETALLE_AFILIADOS_MES|01/08/2026 05:59:32 AM|||FSBOG001|EN EJECUCION|MENSUAL|FAMISANA|                                                                                                               
 579|REPORTE_CALIDAD|18/08/2026 08:29:16 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA, BI|                                                                                                                 
