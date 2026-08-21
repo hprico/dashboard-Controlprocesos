@@ -1063,7 +1063,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 220|GENERA FACTURAS PAC|21/08/2026 01:59:14 PM|21/08/2026 01:59:14 PM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 592|REP_OFICINA_VIRTUAL|21/08/2026 01:59:15 PM|21/08/2026 02:27:26 PM|28m 11s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                        
 453|MARCACION DE TUTELAS|21/08/2026 01:59:15 PM|21/08/2026 01:59:20 PM|5s|TPBOG001|TERMINADO|DIARIO|N/A|                                                                                                
-671|EXPORTABLES_V3|21/08/2026 01:59:15 PM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                       
+671|EXPORTABLES_V3|21/08/2026 01:59:15 PM|21/08/2026 02:29:44 PM|30m 29s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                             
 602|RADICACION_PORTAL_TRANSCRIPCION|21/08/2026 01:59:15 PM|21/08/2026 01:59:28 PM|13s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                
 587|PREVALIDACION|21/08/2026 01:59:15 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                       
 364|NOVEDADES DE AUTORIZACION POR USUARIO|21/08/2026 01:59:16 PM|21/08/2026 02:02:42 PM|3m 26s|TPBOG001|TERMINADO|SEMANAL|FAMISANA|                                                                     
