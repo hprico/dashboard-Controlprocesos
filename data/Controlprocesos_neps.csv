@@ -857,7 +857,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 220|GENERA FACTURAS PAC|24/08/2026 08:59:12 AM|24/08/2026 08:59:12 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 303|MOVILIDAD PROGRAMADA|24/08/2026 08:59:12 AM|24/08/2026 09:01:28 AM|2m 16s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                       
 636|PROCEDIMIENTOS_AYA|24/08/2026 08:59:14 AM|24/08/2026 08:59:16 AM|2s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                                  
-528|TXT_COVID5_PYP|24/08/2026 08:59:14 AM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                       
+528|TXT_COVID5_PYP|24/08/2026 08:59:14 AM|24/08/2026 09:23:19 AM|24m 5s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                              
 517|REPORTE_BITACORA_TRASLADOS|24/08/2026 08:59:14 AM|24/08/2026 08:59:22 AM|8s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                     
 271|DESCARGUE MAPISSSUPC|24/08/2026 08:59:33 AM|24/08/2026 08:59:34 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                            
 270|CARGA MAPIISSUPC|24/08/2026 08:59:33 AM|24/08/2026 08:59:34 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                                
