@@ -437,7 +437,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 303|MOVILIDAD PROGRAMADA|26/08/2026 01:59:04 AM|26/08/2026 02:00:36 AM|1m 32s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                       
 142|VERIFICADOR DE NOVEDADES|26/08/2026 01:59:04 AM|26/08/2026 02:37:09 AM|38m 5s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                   
 134|GESTION|26/08/2026 01:59:04 AM|26/08/2026 02:00:22 AM|1m 18s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                                    
-89|REPORTE AUDITORIA IQ|26/08/2026 01:59:11 AM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                 
+89|REPORTE AUDITORIA IQ|26/08/2026 01:59:11 AM|26/08/2026 11:58:25 AM|9h 59m 14s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                    
 354|MOVILIDAD DNP|26/08/2026 01:59:11 AM|26/08/2026 01:59:17 AM|6s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                                  
 547|JOB_EXT_PLANO_UDEA_RUN|26/08/2026 01:59:11 AM|26/08/2026 01:59:15 AM|4s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                              
 270|CARGA MAPIISSUPC|26/08/2026 01:59:12 AM|26/08/2026 01:59:13 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                                
@@ -927,7 +927,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 720|720_CONSULTACUENTAS|26/08/2026 10:52:03 AM|26/08/2026 10:52:05 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 720|720_CONSULTACUENTAS|26/08/2026 10:57:03 AM|26/08/2026 10:57:05 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 303|MOVILIDAD PROGRAMADA|26/08/2026 10:58:59 AM|26/08/2026 11:05:34 AM|6m 35s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                       
-142|VERIFICADOR DE NOVEDADES|26/08/2026 10:58:59 AM|||BDBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                            
+142|VERIFICADOR DE NOVEDADES|26/08/2026 10:58:59 AM|26/08/2026 11:38:35 AM|39m 36s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                  
 722|CARGUE PROCESO SAT|26/08/2026 10:59:10 AM|26/08/2026 10:59:12 AM|2s|TPBOG001|TERMINADO|POR SOLICITUD|FAMISANA|                                                                                      
 223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|26/08/2026 10:59:10 AM|26/08/2026 10:59:11 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
 547|JOB_EXT_PLANO_UDEA_RUN|26/08/2026 10:59:10 AM|26/08/2026 10:59:13 AM|3s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                              
@@ -939,6 +939,50 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 517|REPORTE_BITACORA_TRASLADOS|26/08/2026 10:59:12 AM|26/08/2026 10:59:21 AM|9s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                     
 422|RADICACION_MASIVA_CUENTAS_MEDICAS|26/08/2026 10:59:12 AM|26/08/2026 10:59:21 AM|9s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                              
 507|REPORTE_POSFECHADAS_RN|26/08/2026 10:59:42 AM|26/08/2026 10:59:47 AM|5s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                         
+720|720_CONSULTACUENTAS|26/08/2026 11:02:03 AM|26/08/2026 11:02:04 AM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
+720|720_CONSULTACUENTAS|26/08/2026 11:07:03 AM|26/08/2026 11:07:05 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
+220|GENERA FACTURAS PAC|26/08/2026 11:09:13 AM|26/08/2026 11:09:14 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
+223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|26/08/2026 11:09:13 AM|26/08/2026 11:09:14 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
+720|720_CONSULTACUENTAS|26/08/2026 11:12:03 AM|26/08/2026 11:12:04 AM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
+720|720_CONSULTACUENTAS|26/08/2026 11:17:03 AM|26/08/2026 11:17:05 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
+223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|26/08/2026 11:19:13 AM|26/08/2026 11:19:14 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
+220|GENERA FACTURAS PAC|26/08/2026 11:19:13 AM|26/08/2026 11:19:14 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
+720|720_CONSULTACUENTAS|26/08/2026 11:22:03 AM|26/08/2026 11:22:05 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
+720|720_CONSULTACUENTAS|26/08/2026 11:27:03 AM|26/08/2026 11:27:05 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
+303|MOVILIDAD PROGRAMADA|26/08/2026 11:28:59 AM|26/08/2026 11:31:52 AM|2m 53s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                       
+724|CARGUE NOVEDADES SAT|26/08/2026 11:29:10 AM|26/08/2026 11:29:12 AM|2s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                           
+222|PASO DE FACTURAS POR INTERFAZ A APOTEOSYS|26/08/2026 11:29:10 AM|26/08/2026 11:29:11 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                       
+223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|26/08/2026 11:29:10 AM|26/08/2026 11:29:10 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
+547|JOB_EXT_PLANO_UDEA_RUN|26/08/2026 11:29:10 AM|26/08/2026 11:29:14 AM|4s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                              
+220|GENERA FACTURAS PAC|26/08/2026 11:29:10 AM|26/08/2026 11:29:10 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
+271|DESCARGUE MAPISSSUPC|26/08/2026 11:29:12 AM|26/08/2026 11:29:13 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                            
+270|CARGA MAPIISSUPC|26/08/2026 11:29:12 AM|26/08/2026 11:29:13 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                                
+55|TAREA_4_CARGUESUPCV5|26/08/2026 11:29:12 AM|26/08/2026 11:29:13 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
+720|720_CONSULTACUENTAS|26/08/2026 11:32:03 AM|26/08/2026 11:32:04 AM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
+720|720_CONSULTACUENTAS|26/08/2026 11:37:03 AM|26/08/2026 11:37:04 AM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
+223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|26/08/2026 11:39:10 AM|26/08/2026 11:39:11 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
+220|GENERA FACTURAS PAC|26/08/2026 11:39:10 AM|26/08/2026 11:39:11 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
+720|720_CONSULTACUENTAS|26/08/2026 11:42:03 AM|26/08/2026 11:42:04 AM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
+720|720_CONSULTACUENTAS|26/08/2026 11:47:03 AM|26/08/2026 11:47:04 AM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
+220|GENERA FACTURAS PAC|26/08/2026 11:49:10 AM|26/08/2026 11:49:11 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
+223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|26/08/2026 11:49:10 AM|26/08/2026 11:49:11 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
+720|720_CONSULTACUENTAS|26/08/2026 11:52:03 AM|26/08/2026 11:52:05 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
+720|720_CONSULTACUENTAS|26/08/2026 11:57:03 AM|26/08/2026 11:57:04 AM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
+303|MOVILIDAD PROGRAMADA|26/08/2026 11:58:58 AM|26/08/2026 12:01:05 PM|2m 7s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                        
+547|JOB_EXT_PLANO_UDEA_RUN|26/08/2026 11:59:10 AM|26/08/2026 11:59:15 AM|5s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                              
+223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|26/08/2026 11:59:10 AM|26/08/2026 11:59:11 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
+354|MOVILIDAD DNP|26/08/2026 11:59:10 AM|26/08/2026 11:59:15 AM|5s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                                  
+220|GENERA FACTURAS PAC|26/08/2026 11:59:10 AM|26/08/2026 11:59:11 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
+271|DESCARGUE MAPISSSUPC|26/08/2026 11:59:11 AM|26/08/2026 11:59:12 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                            
+222|PASO DE FACTURAS POR INTERFAZ A APOTEOSYS|26/08/2026 11:59:11 AM|26/08/2026 11:59:11 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                       
+270|CARGA MAPIISSUPC|26/08/2026 11:59:11 AM|26/08/2026 11:59:12 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                                
+357|MOVILIDAD RETIROS|26/08/2026 11:59:12 AM|26/08/2026 12:00:03 PM|51s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                             
+55|TAREA_4_CARGUESUPCV5|26/08/2026 11:59:12 AM|26/08/2026 11:59:13 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
+361|DESCARGUE MIPRES 3951|26/08/2026 11:59:12 AM|26/08/2026 11:59:22 AM|10s|TPBOG001|TERMINADO|DIARIO|PR_BATCH|                                                                                         
+638|REP_CALIDAD_CAPITA|26/08/2026 11:59:12 AM|26/08/2026 12:03:02 PM|3m 50s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                         
+513|REPORTE_TABLERO_CONTROL|26/08/2026 11:59:13 AM|||TPBOG001|EN EJECUCION|DIARIO|PR_BATCH|                                                                                                             
+526|TXT_COVID4|26/08/2026 11:59:13 AM|26/08/2026 11:59:19 AM|6s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                                      
+527|TXT_COVID4_PYP|26/08/2026 11:59:13 AM|26/08/2026 11:59:35 AM|22s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                                 
 18|DETALLE_AFILIADOS_MES|01/08/2026 05:59:32 AM|||FSBOG001|EN EJECUCION|MENSUAL|FAMISANA|                                                                                                               
 18|DETALLE_AFILIADOS_MES|01/08/2026 05:59:32 AM|||FSBOG001|EN EJECUCION|MENSUAL|FAMISANA|                                                                                                               
 686|REPORTE_GT007|01/07/2026 05:59:39 AM|||TPBOG001|EN EJECUCION|SEMESTRAL|APPNEPS|                                                                                                                     
