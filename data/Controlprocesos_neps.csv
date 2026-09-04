@@ -1121,7 +1121,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 222|PASO DE FACTURAS POR INTERFAZ A APOTEOSYS|04/09/2026 01:59:06 PM|04/09/2026 01:59:07 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                       
 223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|04/09/2026 01:59:06 PM|04/09/2026 01:59:06 PM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
 271|DESCARGUE MAPISSSUPC|04/09/2026 01:59:07 PM|04/09/2026 01:59:08 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                            
-592|REP_OFICINA_VIRTUAL|04/09/2026 01:59:07 PM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                  
+592|REP_OFICINA_VIRTUAL|04/09/2026 01:59:07 PM|04/09/2026 02:27:44 PM|28m 37s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                        
 453|MARCACION DE TUTELAS|04/09/2026 01:59:07 PM|04/09/2026 01:59:11 PM|4s|TPBOG001|TERMINADO|DIARIO|N/A|                                                                                                
 671|EXPORTABLES_V3|04/09/2026 01:59:07 PM|04/09/2026 02:25:46 PM|26m 39s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                             
 602|RADICACION_PORTAL_TRANSCRIPCION|04/09/2026 01:59:08 PM|04/09/2026 01:59:28 PM|20s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                
