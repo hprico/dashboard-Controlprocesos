@@ -940,6 +940,6 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 730|ACT BANDEJA MASTER|14/09/2026 09:59:02 AM|14/09/2026 09:59:30 AM|28s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                            
 354|MOVILIDAD DNP|14/09/2026 09:59:02 AM|14/09/2026 09:59:07 AM|5s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                                  
 364|NOVEDADES DE AUTORIZACION POR USUARIO|14/09/2026 09:59:03 AM|14/09/2026 10:03:19 AM|4m 16s|TPBOG001|TERMINADO|SEMANAL|FAMISANA|                                                                     
-587|PREVALIDACION|14/09/2026 09:59:04 AM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                       
+587|PREVALIDACION|14/09/2026 09:59:04 AM|14/09/2026 10:55:17 AM|56m 13s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                             
 373|ACT ESTADO GRIC|14/09/2026 09:59:09 AM|14/09/2026 09:59:13 AM|4s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                                
 686|REPORTE_GT007|01/07/2026 05:59:39 AM|||TPBOG001|EN EJECUCION|SEMESTRAL|APPNEPS|                                                                                                                     
