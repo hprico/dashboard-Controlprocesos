@@ -1140,7 +1140,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 354|MOVILIDAD DNP|14/09/2026 01:59:01 PM|14/09/2026 01:59:06 PM|5s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                                  
 730|ACT BANDEJA MASTER|14/09/2026 01:59:01 PM|14/09/2026 01:59:29 PM|28s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                            
 547|JOB_EXT_PLANO_UDEA_RUN|14/09/2026 01:59:01 PM|14/09/2026 01:59:02 PM|1s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                              
-587|PREVALIDACION|14/09/2026 01:59:03 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                       
+587|PREVALIDACION|14/09/2026 01:59:03 PM|14/09/2026 02:56:31 PM|57m 28s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                             
 671|EXPORTABLES_V3|14/09/2026 01:59:03 PM|14/09/2026 02:25:33 PM|26m 30s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                             
 453|MARCACION DE TUTELAS|14/09/2026 01:59:03 PM|14/09/2026 01:59:08 PM|5s|TPBOG001|TERMINADO|DIARIO|N/A|                                                                                                
 592|REP_OFICINA_VIRTUAL|14/09/2026 01:59:03 PM|14/09/2026 02:28:44 PM|29m 41s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                        
