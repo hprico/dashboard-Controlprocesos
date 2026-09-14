@@ -292,7 +292,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|13/09/2026 10:49:00 PM|13/09/2026 10:49:01 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
 720|720_CONSULTACUENTAS|13/09/2026 10:51:53 PM|13/09/2026 10:51:55 PM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 720|720_CONSULTACUENTAS|13/09/2026 10:56:53 PM|13/09/2026 10:56:54 PM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
-359|HISTORICO 3951|13/09/2026 10:58:59 PM|||BDBOG001|EN EJECUCION|DIARIO|PR_BATCH|                                                                                                                      
+359|HISTORICO 3951|13/09/2026 10:58:59 PM|14/09/2026 08:21:44 AM|9h 22m 45s|BDBOG001|TERMINADO|DIARIO|PR_BATCH|                                                                                         
 156|RENOVACION AUTOMATICA CONTRATOS|13/09/2026 10:58:59 PM|13/09/2026 11:00:29 PM|1m 30s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                            
 271|DESCARGUE MAPISSSUPC|13/09/2026 10:59:00 PM|13/09/2026 10:59:02 PM|2s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                            
 270|CARGA MAPIISSUPC|13/09/2026 10:59:00 PM|13/09/2026 10:59:02 PM|2s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                                
@@ -824,7 +824,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 55|TAREA_4_CARGUESUPCV5|14/09/2026 07:29:01 AM|14/09/2026 07:29:02 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 487|REPORTE_POBLACION_PRIORIZADA_COVID|14/09/2026 07:29:02 AM|14/09/2026 07:29:08 AM|6s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                  
 418|REP_IPS_TRC_CAPITADOS|14/09/2026 07:29:02 AM|14/09/2026 07:29:21 AM|19s|TPBOG001|TERMINADO|SEMANAL|APPNEPS|                                                                                         
-471|REP_RIPS_DIARIOS|14/09/2026 07:29:03 AM|||TPBOG001|EN EJECUCION|DIARIO|PRMASIVO|                                                                                                                    
+471|REP_RIPS_DIARIOS|14/09/2026 07:29:03 AM|14/09/2026 08:35:16 AM|1h 6m 13s|TPBOG001|TERMINADO|DIARIO|PRMASIVO|                                                                                        
 720|720_CONSULTACUENTAS|14/09/2026 07:31:54 AM|14/09/2026 07:31:55 AM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 720|720_CONSULTACUENTAS|14/09/2026 07:36:54 AM|14/09/2026 07:36:55 AM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 220|GENERA FACTURAS PAC|14/09/2026 07:39:01 AM|14/09/2026 07:39:01 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
@@ -851,5 +851,4 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 482|ACTUALIZACION_REGISTRADA_ENVIADA|14/09/2026 07:59:02 AM|14/09/2026 07:59:15 AM|13s|TPBOG001|TERMINADO|DIARIO|PR_BATCH|                                                                              
 55|TAREA_4_CARGUESUPCV5|14/09/2026 07:59:22 AM|14/09/2026 07:59:23 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 579|REPORTE_CALIDAD|13/09/2026 08:29:01 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA, BI|                                                                                                                 
-359|HISTORICO 3951|13/09/2026 10:58:59 PM|||BDBOG001|EN EJECUCION|DIARIO|PR_BATCH|                                                                                                                      
 686|REPORTE_GT007|01/07/2026 05:59:39 AM|||TPBOG001|EN EJECUCION|SEMESTRAL|APPNEPS|                                                                                                                     
