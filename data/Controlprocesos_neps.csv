@@ -178,7 +178,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 270|CARGA MAPIISSUPC|13/09/2026 08:29:00 PM|13/09/2026 08:29:01 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                                
 730|ACT BANDEJA MASTER|13/09/2026 08:29:00 PM|13/09/2026 08:29:24 PM|24s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                            
 223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|13/09/2026 08:29:00 PM|13/09/2026 08:29:00 PM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
-579|REPORTE_CALIDAD|13/09/2026 08:29:01 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA, BI|                                                                                                                 
+579|REPORTE_CALIDAD|13/09/2026 08:29:01 PM|14/09/2026 09:24:26 AM|12h 55m 25s|TPBOG001|TERMINADO|DIARIO|FAMISANA, BI|                                                                                   
 55|TAREA_4_CARGUESUPCV5|13/09/2026 08:29:21 PM|13/09/2026 08:29:22 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 271|DESCARGUE MAPISSSUPC|13/09/2026 08:29:21 PM|13/09/2026 08:29:22 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                            
 249|AUTORIZACIONES DE MEDICAMENTOS - CAFAM|13/09/2026 08:30:01 PM|13/09/2026 08:30:37 PM|36s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                        
@@ -894,7 +894,6 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 547|JOB_EXT_PLANO_UDEA_RUN|14/09/2026 08:59:02 AM|14/09/2026 08:59:03 AM|1s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                              
 730|ACT BANDEJA MASTER|14/09/2026 08:59:02 AM|14/09/2026 08:59:29 AM|27s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                            
 517|REPORTE_BITACORA_TRASLADOS|14/09/2026 08:59:03 AM|14/09/2026 08:59:11 AM|8s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                     
-528|TXT_COVID5_PYP|14/09/2026 08:59:03 AM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                       
+528|TXT_COVID5_PYP|14/09/2026 08:59:03 AM|14/09/2026 09:30:04 AM|31m 1s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                              
 636|PROCEDIMIENTOS_AYA|14/09/2026 08:59:04 AM|14/09/2026 08:59:06 AM|2s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                                  
-579|REPORTE_CALIDAD|13/09/2026 08:29:01 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA, BI|                                                                                                                 
 686|REPORTE_GT007|01/07/2026 05:59:39 AM|||TPBOG001|EN EJECUCION|SEMESTRAL|APPNEPS|                                                                                                                     
