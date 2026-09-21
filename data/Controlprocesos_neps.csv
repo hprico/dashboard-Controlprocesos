@@ -862,7 +862,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 220|GENERA FACTURAS PAC|21/09/2026 07:38:56 AM|21/09/2026 07:38:56 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 720|720_CONSULTACUENTAS|21/09/2026 07:41:48 AM|21/09/2026 07:41:50 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 730|ACT BANDEJA MASTER|21/09/2026 07:43:56 AM|21/09/2026 07:44:22 AM|26s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                            
-341|REP AFILIADO DIGITURNO|21/09/2026 07:43:56 AM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                              
+341|REP AFILIADO DIGITURNO|21/09/2026 07:43:56 AM|21/09/2026 08:18:22 AM|34m 26s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                    
 720|720_CONSULTACUENTAS|21/09/2026 07:46:48 AM|21/09/2026 07:46:50 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|21/09/2026 07:48:55 AM|21/09/2026 07:48:56 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
 220|GENERA FACTURAS PAC|21/09/2026 07:48:55 AM|21/09/2026 07:48:56 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
