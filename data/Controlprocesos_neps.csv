@@ -1246,7 +1246,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 364|NOVEDADES DE AUTORIZACION POR USUARIO|22/09/2026 03:58:57 PM|22/09/2026 04:01:30 PM|2m 33s|TPBOG001|TERMINADO|SEMANAL|FAMISANA|                                                                     
 361|DESCARGUE MIPRES 3951|22/09/2026 03:58:58 PM|22/09/2026 03:59:08 PM|10s|TPBOG001|TERMINADO|DIARIO|PR_BATCH|                                                                                         
 413|REP_CONTROL_GLOSA_95|22/09/2026 03:58:58 PM|22/09/2026 04:03:55 PM|4m 57s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                       
-19|EMPLEADORES|22/09/2026 03:59:01 PM|||FSBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                          
+19|EMPLEADORES|22/09/2026 03:59:01 PM|22/09/2026 04:08:05 PM|9m 4s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                                  
 271|DESCARGUE MAPISSSUPC|22/09/2026 03:59:17 PM|22/09/2026 03:59:18 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                            
 270|CARGA MAPIISSUPC|22/09/2026 03:59:17 PM|22/09/2026 03:59:18 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                                
 55|TAREA_4_CARGUESUPCV5|22/09/2026 03:59:17 PM|22/09/2026 03:59:18 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
