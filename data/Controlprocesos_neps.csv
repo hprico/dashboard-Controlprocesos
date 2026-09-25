@@ -673,7 +673,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 403|REPORTES_HEPATITIS_C|25/09/2026 04:59:04 AM|25/09/2026 05:00:20 AM|1m 16s|TPBOG001|TERMINADO|SEMANAL|PR_BATCH|                                                                                      
 578|INFORME DISCAPACIDAD|25/09/2026 04:59:04 AM|25/09/2026 04:59:11 AM|7s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                           
 480|REPORTE_NOVEDADES_MIPRES|25/09/2026 04:59:04 AM|25/09/2026 05:01:27 AM|2m 23s|TPBOG001|TERMINADO|DIARIO|FAMISANA, PR_BATCH|                                                                         
-607|REPORTE_COMPLETO_SEMANAL_PRONEPS|25/09/2026 04:59:04 AM|||TPBOG001|EN EJECUCION|SEMANAL|PR_BATCH|                                                                                                   
+607|REPORTE_COMPLETO_SEMANAL_PRONEPS|25/09/2026 04:59:04 AM|25/09/2026 04:21:09 PM|11h 22m 5s|TPBOG001|TERMINADO|SEMANAL|PR_BATCH|                                                                      
 546|AUTORIZ REGIONAL CENTRO ORIENTE|25/09/2026 04:59:05 AM|25/09/2026 05:00:39 AM|1m 34s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                            
 510|REPORTE_AFILIADOS_CIEL|25/09/2026 04:59:08 AM|25/09/2026 04:59:09 AM|1s|TPBOG001|TERMINADO|DIARIO|PRMASIVO|                                                                                         
 720|720_CONSULTACUENTAS|25/09/2026 05:01:48 AM|25/09/2026 05:01:50 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
@@ -1247,7 +1247,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 364|NOVEDADES DE AUTORIZACION POR USUARIO|25/09/2026 03:58:55 PM|25/09/2026 04:01:11 PM|2m 16s|TPBOG001|TERMINADO|SEMANAL|FAMISANA|                                                                     
 361|DESCARGUE MIPRES 3951|25/09/2026 03:58:56 PM|25/09/2026 03:59:05 PM|9s|TPBOG001|TERMINADO|DIARIO|PR_BATCH|                                                                                          
 413|REP_CONTROL_GLOSA_95|25/09/2026 03:58:56 PM|25/09/2026 04:03:38 PM|4m 42s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                       
-19|EMPLEADORES|25/09/2026 03:59:04 PM|||FSBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                          
+19|EMPLEADORES|25/09/2026 03:59:04 PM|25/09/2026 04:08:15 PM|9m 11s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                                 
 243|AUTORIZACIONES DE MEDICAMENTOS - AUDIFARMA|25/09/2026 03:59:55 PM|25/09/2026 04:00:27 PM|32s|APBOG006|TERMINADO|DIARIO|FAMISANA|                                                                    
 686|REPORTE_GT007|01/07/2026 05:59:39 AM|||TPBOG001|EN EJECUCION|SEMESTRAL|APPNEPS|                                                                                                                     
 131|14_PAGOS_TESORERIA|14/09/2026 10:58:58 PM|||APBOG006|EN EJECUCION|DIARIO|CONT|                                                                                                                      
