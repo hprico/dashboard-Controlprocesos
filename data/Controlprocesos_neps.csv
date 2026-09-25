@@ -1144,10 +1144,10 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 55|TAREA_4_CARGUESUPCV5|25/09/2026 01:58:57 PM|25/09/2026 01:58:58 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 602|RADICACION_PORTAL_TRANSCRIPCION|25/09/2026 01:58:57 PM|25/09/2026 01:59:10 PM|13s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                
 364|NOVEDADES DE AUTORIZACION POR USUARIO|25/09/2026 01:58:57 PM|25/09/2026 02:01:26 PM|2m 29s|TPBOG001|TERMINADO|SEMANAL|FAMISANA|                                                                     
-592|REP_OFICINA_VIRTUAL|25/09/2026 01:58:57 PM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                  
+592|REP_OFICINA_VIRTUAL|25/09/2026 01:58:57 PM|25/09/2026 02:30:55 PM|31m 58s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                        
 220|GENERA FACTURAS PAC|25/09/2026 01:58:57 PM|25/09/2026 01:58:57 PM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 222|PASO DE FACTURAS POR INTERFAZ A APOTEOSYS|25/09/2026 01:58:57 PM|25/09/2026 01:58:57 PM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                       
-587|PREVALIDACION|25/09/2026 01:58:57 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                       
+587|PREVALIDACION|25/09/2026 01:58:57 PM|25/09/2026 02:57:59 PM|59m 2s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                              
 271|DESCARGUE MAPISSSUPC|25/09/2026 01:58:57 PM|25/09/2026 01:58:58 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                            
 318|FACTURAS PENDIENTES|25/09/2026 01:59:04 PM|25/09/2026 01:59:40 PM|36s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                           
 686|REPORTE_GT007|01/07/2026 05:59:39 AM|||TPBOG001|EN EJECUCION|SEMESTRAL|APPNEPS|                                                                                                                     
