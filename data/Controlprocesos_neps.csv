@@ -986,7 +986,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 720|720_CONSULTACUENTAS|25/09/2026 10:51:47 AM|25/09/2026 10:51:49 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 720|720_CONSULTACUENTAS|25/09/2026 10:56:47 AM|25/09/2026 10:56:48 AM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 303|MOVILIDAD PROGRAMADA|25/09/2026 10:58:53 AM|25/09/2026 11:00:55 AM|2m 2s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                        
-142|VERIFICADOR DE NOVEDADES|25/09/2026 10:58:53 AM|||BDBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                            
+142|VERIFICADOR DE NOVEDADES|25/09/2026 10:58:53 AM|25/09/2026 11:45:59 AM|47m 6s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                   
 547|JOB_EXT_PLANO_UDEA_RUN|25/09/2026 10:58:55 AM|25/09/2026 10:58:56 AM|1s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                              
 722|CARGUE PROCESO SAT|25/09/2026 10:58:55 AM|25/09/2026 11:01:55 AM|3m|TPBOG001|TERMINADO|POR SOLICITUD|FAMISANA|                                                                                      
 730|ACT BANDEJA MASTER|25/09/2026 10:58:55 AM|25/09/2026 10:59:24 AM|29s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                            
@@ -1001,7 +1001,6 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 55|TAREA_4_CARGUESUPCV5|25/09/2026 10:58:58 AM|25/09/2026 10:58:59 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 507|REPORTE_POSFECHADAS_RN|25/09/2026 10:59:25 AM|25/09/2026 10:59:29 AM|4s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                         
 686|REPORTE_GT007|01/07/2026 05:59:39 AM|||TPBOG001|EN EJECUCION|SEMESTRAL|APPNEPS|                                                                                                                     
-694|CARGUE_MEDICAMENTOS|24/09/2026 04:58:59 PM|||TPBOG001|EN EJECUCION|SEMANAL|PR_BATCH|                                                                                                                
 131|14_PAGOS_TESORERIA|14/09/2026 10:58:58 PM|||APBOG006|EN EJECUCION|DIARIO|CONT|                                                                                                                      
 88|AFILIADO XIQ|24/09/2026 07:58:57 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                         
 89|REPORTE AUDITORIA IQ|24/09/2026 01:58:55 AM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                 
