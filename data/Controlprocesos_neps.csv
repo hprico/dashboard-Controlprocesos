@@ -474,7 +474,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 303|MOVILIDAD PROGRAMADA|26/09/2026 01:58:54 AM|26/09/2026 02:01:01 AM|2m 7s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                        
 223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|26/09/2026 01:58:54 AM|26/09/2026 01:58:55 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
 134|GESTION|26/09/2026 01:58:54 AM|26/09/2026 02:00:55 AM|2m 1s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                                     
-124|REP AFILIADOS - ASESOR|26/09/2026 01:58:55 AM|||TPBOG001|EN EJECUCION|SEMANAL|FAMISANA|                                                                                                             
+124|REP AFILIADOS - ASESOR|26/09/2026 01:58:55 AM|26/09/2026 08:57:11 AM|6h 58m 16s|TPBOG001|TERMINADO|SEMANAL|FAMISANA|                                                                                
 222|PASO DE FACTURAS POR INTERFAZ A APOTEOSYS|26/09/2026 01:58:55 AM|26/09/2026 01:58:55 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                       
 55|TAREA_4_CARGUESUPCV5|26/09/2026 01:58:55 AM|26/09/2026 01:58:57 AM|2s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 270|CARGA MAPIISSUPC|26/09/2026 01:58:55 AM|26/09/2026 01:58:56 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                                
