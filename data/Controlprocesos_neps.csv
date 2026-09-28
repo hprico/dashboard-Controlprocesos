@@ -1180,7 +1180,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 592|REP_OFICINA_VIRTUAL|28/09/2026 01:58:55 PM|28/09/2026 02:31:06 PM|32m 11s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                        
 318|FACTURAS PENDIENTES|28/09/2026 01:58:55 PM|28/09/2026 01:59:33 PM|38s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                           
 364|NOVEDADES DE AUTORIZACION POR USUARIO|28/09/2026 01:58:55 PM|28/09/2026 02:02:21 PM|3m 26s|TPBOG001|TERMINADO|SEMANAL|FAMISANA|                                                                     
-587|PREVALIDACION|28/09/2026 01:58:55 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                       
+587|PREVALIDACION|28/09/2026 01:58:55 PM|28/09/2026 02:52:24 PM|53m 29s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                             
 453|MARCACION DE TUTELAS|28/09/2026 01:58:56 PM|28/09/2026 01:59:01 PM|5s|TPBOG001|TERMINADO|DIARIO|N/A|                                                                                                
 484|PRIORIZADOS CALLCENTER|26/09/2026 01:58:58 AM|||TPBOG001|EN EJECUCION|DIARIO|MDE|                                                                                                                   
 686|REPORTE_GT007|01/07/2026 05:59:39 AM|||TPBOG001|EN EJECUCION|SEMESTRAL|APPNEPS|                                                                                                                     
