@@ -943,7 +943,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 270|CARGA MAPIISSUPC|11/10/2026 09:58:44 AM|11/10/2026 09:58:46 AM|2s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                                
 473|REP_POTENCIAL_PUNTO_FINAL|11/10/2026 09:58:45 AM|11/10/2026 09:59:08 AM|23s|TPBOG001|TERMINADO|SEMANAL|APPNEPS|                                                                                     
 55|TAREA_4_CARGUESUPCV5|11/10/2026 09:58:45 AM|11/10/2026 09:58:46 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
-587|PREVALIDACION|11/10/2026 09:58:46 AM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                       
+587|PREVALIDACION|11/10/2026 09:58:46 AM|11/10/2026 10:46:48 AM|48m 2s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                              
 373|ACT ESTADO GRIC|11/10/2026 09:58:51 AM|11/10/2026 09:58:56 AM|5s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                                
 243|AUTORIZACIONES DE MEDICAMENTOS - AUDIFARMA|11/10/2026 09:59:45 AM|11/10/2026 10:00:33 AM|48s|APBOG006|TERMINADO|DIARIO|FAMISANA|                                                                    
 18|DETALLE_AFILIADOS_MES|01/10/2026 05:58:58 AM|||FSBOG001|EN EJECUCION|MENSUAL|FAMISANA|                                                                                                               
