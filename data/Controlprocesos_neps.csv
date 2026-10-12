@@ -562,7 +562,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 720|720_CONSULTACUENTAS|12/10/2026 03:11:38 AM|12/10/2026 03:11:39 AM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 730|ACT BANDEJA MASTER|12/10/2026 03:13:44 AM|12/10/2026 03:14:57 AM|1m 13s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                         
 263|REP FACT ESTADOS OUT DIARIO|12/10/2026 03:13:46 AM|12/10/2026 03:14:22 AM|36s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                   
-31|RECAUDO_TOTAL|12/10/2026 03:14:23 AM|||FSBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                        
+31|RECAUDO_TOTAL|12/10/2026 03:14:23 AM|12/10/2026 10:49:40 AM|7h 35m 17s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                           
 720|720_CONSULTACUENTAS|12/10/2026 03:16:37 AM|12/10/2026 03:16:39 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|12/10/2026 03:18:44 AM|12/10/2026 03:18:45 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
 220|GENERA FACTURAS PAC|12/10/2026 03:18:44 AM|12/10/2026 03:18:45 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
@@ -967,7 +967,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 55|TAREA_4_CARGUESUPCV5|12/10/2026 09:58:46 AM|12/10/2026 09:58:47 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 547|JOB_EXT_PLANO_UDEA_RUN|12/10/2026 09:58:46 AM|12/10/2026 09:58:47 AM|1s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                              
 730|ACT BANDEJA MASTER|12/10/2026 09:58:46 AM|12/10/2026 09:59:12 AM|26s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                            
-587|PREVALIDACION|12/10/2026 09:58:48 AM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                       
+587|PREVALIDACION|12/10/2026 09:58:48 AM|12/10/2026 10:45:08 AM|46m 20s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                             
 364|NOVEDADES DE AUTORIZACION POR USUARIO|12/10/2026 09:58:48 AM|12/10/2026 10:02:30 AM|3m 42s|TPBOG001|TERMINADO|SEMANAL|FAMISANA|                                                                     
 373|ACT ESTADO GRIC|12/10/2026 09:58:49 AM|12/10/2026 09:58:54 AM|5s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                                
 243|AUTORIZACIONES DE MEDICAMENTOS - AUDIFARMA|12/10/2026 09:59:46 AM|12/10/2026 10:00:24 AM|38s|APBOG006|TERMINADO|DIARIO|FAMISANA|                                                                    
