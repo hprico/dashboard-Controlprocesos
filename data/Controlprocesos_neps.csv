@@ -852,7 +852,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|12/10/2026 07:28:44 AM|12/10/2026 07:28:44 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
 220|GENERA FACTURAS PAC|12/10/2026 07:28:44 AM|12/10/2026 07:28:44 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 418|REP_IPS_TRC_CAPITADOS|12/10/2026 07:28:45 AM|12/10/2026 07:29:04 AM|19s|TPBOG001|TERMINADO|SEMANAL|APPNEPS|                                                                                         
-471|REP_RIPS_DIARIOS|12/10/2026 07:28:45 AM|||TPBOG001|EN EJECUCION|DIARIO|PRMASIVO|                                                                                                                    
+471|REP_RIPS_DIARIOS|12/10/2026 07:28:45 AM|12/10/2026 08:23:13 AM|54m 28s|TPBOG001|TERMINADO|DIARIO|PRMASIVO|                                                                                          
 487|REPORTE_POBLACION_PRIORIZADA_COVID|12/10/2026 07:28:46 AM|12/10/2026 07:29:36 AM|50s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                 
 720|720_CONSULTACUENTAS|12/10/2026 07:31:37 AM|12/10/2026 07:31:39 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 720|720_CONSULTACUENTAS|12/10/2026 07:36:37 AM|12/10/2026 07:36:39 AM|2s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
@@ -878,7 +878,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 570|SERV_PRESTADOS_SERVCLIENTE|12/10/2026 07:58:45 AM|12/10/2026 07:58:51 AM|6s|TPBOG001|TERMINADO|SEMANAL|FAMISANA, PR_BATCH, MDE|                                                                     
 482|ACTUALIZACION_REGISTRADA_ENVIADA|12/10/2026 07:58:45 AM|12/10/2026 07:58:47 AM|2s|TPBOG001|TERMINADO|DIARIO|PR_BATCH|                                                                               
 361|DESCARGUE MIPRES 3951|12/10/2026 07:58:45 AM|12/10/2026 07:58:52 AM|7s|TPBOG001|TERMINADO|DIARIO|PR_BATCH|                                                                                          
-341|REP AFILIADO DIGITURNO|12/10/2026 07:58:45 AM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                              
+341|REP AFILIADO DIGITURNO|12/10/2026 07:58:45 AM|12/10/2026 08:53:45 AM|55m|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                        
 18|DETALLE_AFILIADOS_MES|01/10/2026 05:58:58 AM|||FSBOG001|EN EJECUCION|MENSUAL|FAMISANA|                                                                                                               
 686|REPORTE_GT007|01/07/2026 05:59:39 AM|||TPBOG001|EN EJECUCION|SEMESTRAL|APPNEPS|                                                                                                                     
 131|14_PAGOS_TESORERIA|14/09/2026 10:58:58 PM|||APBOG006|EN EJECUCION|DIARIO|CONT|                                                                                                                      
