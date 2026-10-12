@@ -468,7 +468,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 155|IMAGENES PAGOS|12/10/2026 01:58:44 AM|12/10/2026 02:01:16 AM|2m 32s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                             
 142|VERIFICADOR DE NOVEDADES|12/10/2026 01:58:44 AM|12/10/2026 02:22:11 AM|23m 27s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                  
 547|JOB_EXT_PLANO_UDEA_RUN|12/10/2026 01:58:44 AM|12/10/2026 01:58:45 AM|1s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                              
-89|REPORTE AUDITORIA IQ|12/10/2026 01:58:44 AM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                 
+89|REPORTE AUDITORIA IQ|12/10/2026 01:58:44 AM|12/10/2026 12:38:12 PM|10h 39m 28s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                   
 303|MOVILIDAD PROGRAMADA|12/10/2026 01:58:44 AM|12/10/2026 02:00:22 AM|1m 38s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                       
 271|DESCARGUE MAPISSSUPC|12/10/2026 01:58:45 AM|12/10/2026 01:58:46 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                            
 730|ACT BANDEJA MASTER|12/10/2026 01:58:45 AM|12/10/2026 01:59:14 AM|29s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                            
