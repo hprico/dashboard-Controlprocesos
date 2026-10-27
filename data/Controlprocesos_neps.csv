@@ -825,7 +825,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 487|REPORTE_POBLACION_PRIORIZADA_COVID|27/10/2026 07:28:39 AM|27/10/2026 07:29:06 AM|27s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                 
 223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|27/10/2026 07:28:40 AM|27/10/2026 07:28:40 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
 220|GENERA FACTURAS PAC|27/10/2026 07:28:40 AM|27/10/2026 07:28:40 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
-471|REP_RIPS_DIARIOS|27/10/2026 07:28:40 AM|||TPBOG001|EN EJECUCION|DIARIO|PRMASIVO|                                                                                                                    
+471|REP_RIPS_DIARIOS|27/10/2026 07:28:40 AM|27/10/2026 08:33:27 AM|1h 4m 47s|TPBOG001|TERMINADO|DIARIO|PRMASIVO|                                                                                        
 271|DESCARGUE MAPISSSUPC|27/10/2026 07:29:01 AM|27/10/2026 07:29:02 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                            
 222|PASO DE FACTURAS POR INTERFAZ A APOTEOSYS|27/10/2026 07:29:01 AM|27/10/2026 07:29:02 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                       
 270|CARGA MAPIISSUPC|27/10/2026 07:29:01 AM|27/10/2026 07:29:02 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                                
@@ -854,7 +854,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 222|PASO DE FACTURAS POR INTERFAZ A APOTEOSYS|27/10/2026 07:58:39 AM|27/10/2026 07:58:39 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                       
 570|SERV_PRESTADOS_SERVCLIENTE|27/10/2026 07:58:39 AM|27/10/2026 07:58:47 AM|8s|TPBOG001|TERMINADO|SEMANAL|FAMISANA, PR_BATCH, MDE|                                                                     
 270|CARGA MAPIISSUPC|27/10/2026 07:58:39 AM|27/10/2026 07:58:40 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                                
-341|REP AFILIADO DIGITURNO|27/10/2026 07:58:39 AM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                              
+341|REP AFILIADO DIGITURNO|27/10/2026 07:58:39 AM|27/10/2026 08:39:57 AM|41m 18s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                    
 18|DETALLE_AFILIADOS_MES|01/10/2026 05:58:58 AM|||FSBOG001|EN EJECUCION|MENSUAL|FAMISANA|                                                                                                               
 686|REPORTE_GT007|01/07/2026 05:59:39 AM|||TPBOG001|EN EJECUCION|SEMESTRAL|APPNEPS|                                                                                                                     
 131|14_PAGOS_TESORERIA|14/09/2026 10:58:58 PM|||APBOG006|EN EJECUCION|DIARIO|CONT|                                                                                                                      
