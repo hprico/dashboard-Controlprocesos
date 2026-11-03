@@ -1158,12 +1158,12 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 271|DESCARGUE MAPISSSUPC|03/11/2026 01:58:36 PM|03/11/2026 01:58:38 PM|2s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                            
 222|PASO DE FACTURAS POR INTERFAZ A APOTEOSYS|03/11/2026 01:58:36 PM|03/11/2026 01:58:37 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                       
 223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|03/11/2026 01:58:36 PM|03/11/2026 01:58:36 PM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
-592|REP_OFICINA_VIRTUAL|03/11/2026 01:58:37 PM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                  
+592|REP_OFICINA_VIRTUAL|03/11/2026 01:58:37 PM|03/11/2026 02:28:05 PM|29m 28s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                        
 453|MARCACION DE TUTELAS|03/11/2026 01:58:37 PM|03/11/2026 01:58:46 PM|9s|TPBOG001|TERMINADO|DIARIO|N/A|                                                                                                
 55|TAREA_4_CARGUESUPCV5|03/11/2026 01:58:37 PM|03/11/2026 01:58:38 PM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 318|FACTURAS PENDIENTES|03/11/2026 01:58:38 PM|03/11/2026 01:59:17 PM|39s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                           
 602|RADICACION_PORTAL_TRANSCRIPCION|03/11/2026 01:58:38 PM|03/11/2026 01:58:56 PM|18s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                
-671|EXPORTABLES_V3|03/11/2026 01:58:38 PM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                       
+671|EXPORTABLES_V3|03/11/2026 01:58:38 PM|03/11/2026 02:26:30 PM|27m 52s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                             
 686|REPORTE_GT007|01/07/2026 05:59:39 AM|||TPBOG001|EN EJECUCION|SEMESTRAL|APPNEPS|                                                                                                                     
 131|14_PAGOS_TESORERIA|14/09/2026 10:58:58 PM|||APBOG006|EN EJECUCION|DIARIO|CONT|                                                                                                                      
 479|PACIENTES_PRIORIZADOS|01/11/2026 12:59:32 AM|||TPBOG001|EN EJECUCION|DIARIO|MDE|                                                                                                                    
