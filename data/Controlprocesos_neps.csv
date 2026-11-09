@@ -1076,7 +1076,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 55|TAREA_4_CARGUESUPCV5|09/11/2026 11:58:30 AM|09/11/2026 11:58:31 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 638|REP_CALIDAD_CAPITA|09/11/2026 11:58:30 AM|09/11/2026 12:02:07 PM|3m 37s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                         
 361|DESCARGUE MIPRES 3951|09/11/2026 11:58:30 AM|09/11/2026 11:58:39 AM|9s|TPBOG001|TERMINADO|DIARIO|PR_BATCH|                                                                                          
-513|REPORTE_TABLERO_CONTROL|09/11/2026 11:58:31 AM|||TPBOG001|EN EJECUCION|DIARIO|PR_BATCH|                                                                                                             
+513|REPORTE_TABLERO_CONTROL|09/11/2026 11:58:31 AM|09/11/2026 12:15:55 PM|17m 24s|TPBOG001|TERMINADO|DIARIO|PR_BATCH|                                                                                   
 526|TXT_COVID4|09/11/2026 11:58:31 AM|09/11/2026 11:58:38 AM|7s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                                      
 527|TXT_COVID4_PYP|09/11/2026 11:58:32 AM|09/11/2026 11:59:00 AM|28s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                                 
 686|REPORTE_GT007|01/07/2026 05:59:39 AM|||TPBOG001|EN EJECUCION|SEMESTRAL|APPNEPS|                                                                                                                     
