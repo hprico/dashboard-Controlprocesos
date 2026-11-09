@@ -926,7 +926,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 220|GENERA FACTURAS PAC|09/11/2026 08:58:29 AM|09/11/2026 08:58:29 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 636|PROCEDIMIENTOS_AYA|09/11/2026 08:58:30 AM|09/11/2026 08:58:32 AM|2s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                                  
 517|REPORTE_BITACORA_TRASLADOS|09/11/2026 08:58:31 AM|09/11/2026 08:58:40 AM|9s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                     
-528|TXT_COVID5_PYP|09/11/2026 08:58:31 AM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                       
+528|TXT_COVID5_PYP|09/11/2026 08:58:31 AM|09/11/2026 09:20:12 AM|21m 41s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                             
 686|REPORTE_GT007|01/07/2026 05:59:39 AM|||TPBOG001|EN EJECUCION|SEMESTRAL|APPNEPS|                                                                                                                     
 131|14_PAGOS_TESORERIA|14/09/2026 10:58:58 PM|||APBOG006|EN EJECUCION|DIARIO|CONT|                                                                                                                      
 694|CARGUE_MEDICAMENTOS|05/11/2026 04:58:34 PM|||TPBOG001|EN EJECUCION|SEMANAL|PR_BATCH|                                                                                                                
