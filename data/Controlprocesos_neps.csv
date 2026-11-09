@@ -867,7 +867,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|09/11/2026 07:48:29 AM|09/11/2026 07:48:29 AM|0s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
 720|720_CONSULTACUENTAS|09/11/2026 07:51:21 AM|09/11/2026 07:51:22 AM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 720|720_CONSULTACUENTAS|09/11/2026 07:56:21 AM|09/11/2026 07:56:22 AM|1s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
-303|MOVILIDAD PROGRAMADA|09/11/2026 07:58:28 AM|||BDBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                
+303|MOVILIDAD PROGRAMADA|09/11/2026 07:58:28 AM|09/11/2026 08:07:08 AM|8m 40s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                       
 220|GENERA FACTURAS PAC|09/11/2026 07:58:29 AM|09/11/2026 07:58:30 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 222|PASO DE FACTURAS POR INTERFAZ A APOTEOSYS|09/11/2026 07:58:29 AM|09/11/2026 07:58:30 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                       
 270|CARGA MAPIISSUPC|09/11/2026 07:58:29 AM|09/11/2026 07:58:30 AM|1s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                                
