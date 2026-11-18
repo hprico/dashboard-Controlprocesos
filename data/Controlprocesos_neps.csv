@@ -1254,9 +1254,6 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 413|REP_CONTROL_GLOSA_95|18/11/2026 03:58:28 PM|18/11/2026 04:03:24 PM|4m 56s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                       
 19|EMPLEADORES|18/11/2026 03:58:33 PM|18/11/2026 04:06:13 PM|7m 40s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                                 
 243|AUTORIZACIONES DE MEDICAMENTOS - AUDIFARMA|18/11/2026 03:59:26 PM|18/11/2026 03:59:58 PM|32s|APBOG006|TERMINADO|DIARIO|FAMISANA|                                                                    
-686|REPORTE_GT007|01/07/2026 05:59:39 AM|||TPBOG001|EN EJECUCION|SEMESTRAL|APPNEPS|                                                                                                                     
-131|14_PAGOS_TESORERIA|14/09/2026 10:58:58 PM|||APBOG006|EN EJECUCION|DIARIO|CONT|                                                                                                                      
 322|MARCA EXENTOS SUB|16/11/2026 02:58:40 AM|||FSBOG001|EN EJECUCION|SEMANAL|FAMISANA|                                                                                                                  
-348|CARGUE BASE FACTURAS - ASESOR|13/11/2026 05:58:27 PM|||BDBOG002|EN EJECUCION|SEMANAL|BI|                                                                                                            
 578|INFORME DISCAPACIDAD|16/11/2026 04:59:50 AM|||FSBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                
 544|PRC_ANULA_AUT_POS_FECH_VENCIDAS|16/11/2026 02:28:01 AM|||FSBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                     
