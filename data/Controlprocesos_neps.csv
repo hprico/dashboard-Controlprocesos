@@ -552,7 +552,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 720|720_CONSULTACUENTAS|18/11/2026 03:11:17 AM|18/11/2026 03:11:20 AM|3s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 730|ACT BANDEJA MASTER|18/11/2026 03:13:24 AM|18/11/2026 03:14:11 AM|47s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                            
 263|REP FACT ESTADOS OUT DIARIO|18/11/2026 03:13:26 AM|18/11/2026 03:13:56 AM|30s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                   
-31|RECAUDO_TOTAL|18/11/2026 03:13:29 AM|||FSBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                        
+31|RECAUDO_TOTAL|18/11/2026 03:13:29 AM|18/11/2026 09:24:08 AM|6h 10m 39s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                           
 720|720_CONSULTACUENTAS|18/11/2026 03:16:17 AM|18/11/2026 03:16:20 AM|3s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
 223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|18/11/2026 03:18:25 AM|18/11/2026 03:18:27 AM|2s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
 220|GENERA FACTURAS PAC|18/11/2026 03:18:25 AM|18/11/2026 03:18:27 AM|2s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
@@ -901,7 +901,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 55|TAREA_4_CARGUESUPCV5|18/11/2026 08:58:26 AM|18/11/2026 08:58:28 AM|2s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 517|REPORTE_BITACORA_TRASLADOS|18/11/2026 08:58:26 AM|18/11/2026 08:58:33 AM|7s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                     
 730|ACT BANDEJA MASTER|18/11/2026 08:58:26 AM|18/11/2026 08:58:46 AM|20s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                            
-528|TXT_COVID5_PYP|18/11/2026 08:58:27 AM|||TPBOG001|EN EJECUCION|DIARIO|APPNEPS|                                                                                                                       
+528|TXT_COVID5_PYP|18/11/2026 08:58:27 AM|18/11/2026 09:20:05 AM|21m 38s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                             
 636|PROCEDIMIENTOS_AYA|18/11/2026 08:58:27 AM|18/11/2026 08:58:29 AM|2s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                                  
 686|REPORTE_GT007|01/07/2026 05:59:39 AM|||TPBOG001|EN EJECUCION|SEMESTRAL|APPNEPS|                                                                                                                     
 131|14_PAGOS_TESORERIA|14/09/2026 10:58:58 PM|||APBOG006|EN EJECUCION|DIARIO|CONT|                                                                                                                      
