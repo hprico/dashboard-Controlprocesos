@@ -1482,7 +1482,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 730|ACT BANDEJA MASTER|23/11/2026 07:58:22 PM|23/11/2026 07:58:41 PM|19s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                            
 354|MOVILIDAD DNP|23/11/2026 07:58:22 PM|23/11/2026 07:58:28 PM|6s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                                  
 587|PREVALIDACION|23/11/2026 07:58:23 PM|23/11/2026 08:29:17 PM|30m 54s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                             
-690|REP_FACT_ACUERDO_PAGO|23/11/2026 07:58:23 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                               
+690|REP_FACT_ACUERDO_PAGO|23/11/2026 07:58:23 PM|23/11/2026 09:43:34 PM|1h 45m 11s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                  
 436|NUEVO_PLANTA|23/11/2026 07:58:24 PM|23/11/2026 07:58:26 PM|2s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                                   
 576|REP_DIRECCIONAMIENTO|23/11/2026 07:58:24 PM|23/11/2026 08:59:49 PM|1h 1m 25s|TPBOG001|TERMINADO|DIARIO|APPNEPS|                                                                                     
 88|AFILIADO XIQ|23/11/2026 07:58:24 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                         
@@ -1512,7 +1512,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 547|JOB_EXT_PLANO_UDEA_RUN|23/11/2026 08:28:21 PM|23/11/2026 08:28:23 PM|2s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                              
 355|MOVILIDAD EPSS37|23/11/2026 08:28:21 PM|23/11/2026 08:28:29 PM|8s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                               
 730|ACT BANDEJA MASTER|23/11/2026 08:28:22 PM|23/11/2026 08:28:42 PM|20s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                            
-579|REPORTE_CALIDAD|23/11/2026 08:28:23 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA, BI|                                                                                                                 
+579|REPORTE_CALIDAD|23/11/2026 08:28:23 PM|23/11/2026 09:50:52 PM|1h 22m 29s|TPBOG001|TERMINADO|DIARIO|FAMISANA, BI|                                                                                    
 223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|23/11/2026 08:28:24 PM|23/11/2026 08:28:26 PM|2s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
 222|PASO DE FACTURAS POR INTERFAZ A APOTEOSYS|23/11/2026 08:28:25 PM|23/11/2026 08:28:27 PM|2s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                       
 271|DESCARGUE MAPISSSUPC|23/11/2026 08:28:25 PM|23/11/2026 08:28:28 PM|3s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                            
