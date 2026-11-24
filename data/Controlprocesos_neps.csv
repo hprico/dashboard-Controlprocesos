@@ -1383,7 +1383,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 373|ACT ESTADO GRIC|23/11/2026 05:58:24 PM|23/11/2026 05:58:29 PM|5s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                                
 482|ACTUALIZACION_REGISTRADA_ENVIADA|23/11/2026 05:58:24 PM|23/11/2026 05:58:29 PM|5s|TPBOG001|TERMINADO|DIARIO|PR_BATCH|                                                                               
 582|REP_REGIONALES_DIRECC|23/11/2026 05:58:24 PM|23/11/2026 06:58:17 PM|59m 53s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                     
-629|RPTE_DIARIO_MALLA_LICENCIAS|23/11/2026 05:58:24 PM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                         
+629|RPTE_DIARIO_MALLA_LICENCIAS|23/11/2026 05:58:24 PM|23/11/2026 07:48:05 PM|1h 49m 41s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                            
 270|CARGA MAPIISSUPC|23/11/2026 05:58:25 PM|23/11/2026 05:58:28 PM|3s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                                
 222|PASO DE FACTURAS POR INTERFAZ A APOTEOSYS|23/11/2026 05:58:25 PM|23/11/2026 05:58:27 PM|2s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                       
 223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|23/11/2026 05:58:25 PM|23/11/2026 05:58:27 PM|2s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
