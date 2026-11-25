@@ -386,7 +386,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 355|MOVILIDAD EPSS37|25/11/2026 12:28:20 AM|25/11/2026 12:28:27 AM|7s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                               
 547|JOB_EXT_PLANO_UDEA_RUN|25/11/2026 12:28:20 AM|25/11/2026 12:28:22 AM|2s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                              
 303|MOVILIDAD PROGRAMADA|25/11/2026 12:28:20 AM|25/11/2026 12:29:31 AM|1m 11s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                       
-141|AUDITA|25/11/2026 12:28:20 AM|||BDBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                              
+141|AUDITA|25/11/2026 12:28:20 AM|25/11/2026 06:58:22 AM|6h 30m 2s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                                  
 220|GENERA FACTURAS PAC|25/11/2026 12:28:23 AM|25/11/2026 12:28:25 AM|2s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 270|CARGA MAPIISSUPC|25/11/2026 12:28:23 AM|25/11/2026 12:28:26 AM|3s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                                
 223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|25/11/2026 12:28:23 AM|25/11/2026 12:28:25 AM|2s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
@@ -635,7 +635,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 355|MOVILIDAD EPSS37|25/11/2026 04:28:21 AM|25/11/2026 04:28:29 AM|8s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                               
 730|ACT BANDEJA MASTER|25/11/2026 04:28:22 AM|25/11/2026 04:28:41 AM|19s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                            
 303|MOVILIDAD PROGRAMADA|25/11/2026 04:28:22 AM|25/11/2026 04:29:35 AM|1m 13s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                       
-9|AFILXEMPRESA|25/11/2026 04:28:23 AM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                          
+9|AFILXEMPRESA|25/11/2026 04:28:23 AM|25/11/2026 06:36:32 AM|2h 8m 9s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                               
 223|ACTUALIZA ESTADOS DE FACTURAS PAGADAS O CANCELADAS|25/11/2026 04:28:24 AM|25/11/2026 04:28:26 AM|2s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                              
 222|PASO DE FACTURAS POR INTERFAZ A APOTEOSYS|25/11/2026 04:28:25 AM|25/11/2026 04:28:27 AM|2s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                       
 271|DESCARGUE MAPISSSUPC|25/11/2026 04:28:25 AM|25/11/2026 04:28:28 AM|3s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                            
@@ -680,7 +680,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 271|DESCARGUE MAPISSSUPC|25/11/2026 04:58:28 AM|25/11/2026 04:58:51 AM|23s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                           
 220|GENERA FACTURAS PAC|25/11/2026 04:58:28 AM|25/11/2026 04:58:30 AM|2s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
 222|PASO DE FACTURAS POR INTERFAZ A APOTEOSYS|25/11/2026 04:58:28 AM|25/11/2026 04:58:30 AM|2s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                       
-546|AUTORIZ REGIONAL CENTRO ORIENTE|25/11/2026 04:58:29 AM|||FSBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                     
+546|AUTORIZ REGIONAL CENTRO ORIENTE|25/11/2026 04:58:29 AM|25/11/2026 06:53:47 AM|1h 55m 18s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                        
 578|INFORME DISCAPACIDAD|25/11/2026 04:58:29 AM|25/11/2026 04:58:39 AM|10s|FSBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                          
 510|REPORTE_AFILIADOS_CIEL|25/11/2026 04:58:35 AM|25/11/2026 04:58:37 AM|2s|TPBOG001|TERMINADO|DIARIO|PRMASIVO|                                                                                         
 720|720_CONSULTACUENTAS|25/11/2026 05:01:16 AM|25/11/2026 05:01:20 AM|4s|TPBOG002|TERMINADO|DIARIO|MDE|                                                                                                 
