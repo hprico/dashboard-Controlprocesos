@@ -638,7 +638,7 @@ CODIGO|PROCESO|FECHAINICIO|FECHAFIN|DURACION|SERVIDOR|ESTADO|FREC_EJECUCION|BASE
 303|MOVILIDAD PROGRAMADA|26/11/2026 04:28:20 AM|26/11/2026 04:29:27 AM|1m 7s|BDBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                        
 547|JOB_EXT_PLANO_UDEA_RUN|26/11/2026 04:28:21 AM|26/11/2026 04:28:23 AM|2s|TPBOG001|TERMINADO|DIARIO|MDE|                                                                                              
 355|MOVILIDAD EPSS37|26/11/2026 04:28:21 AM|26/11/2026 04:28:27 AM|6s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                               
-9|AFILXEMPRESA|26/11/2026 04:28:22 AM|||TPBOG001|EN EJECUCION|DIARIO|FAMISANA|                                                                                                                          
+9|AFILXEMPRESA|26/11/2026 04:28:22 AM|26/11/2026 06:43:13 AM|2h 14m 51s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                             
 730|ACT BANDEJA MASTER|26/11/2026 04:28:22 AM|26/11/2026 04:28:41 AM|19s|TPBOG001|TERMINADO|DIARIO|FAMISANA|                                                                                            
 222|PASO DE FACTURAS POR INTERFAZ A APOTEOSYS|26/11/2026 04:28:24 AM|26/11/2026 04:28:26 AM|2s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                       
 220|GENERA FACTURAS PAC|26/11/2026 04:28:24 AM|26/11/2026 04:28:26 AM|2s|APBOG004|TERMINADO|DIARIO|APPNEPS|                                                                                             
